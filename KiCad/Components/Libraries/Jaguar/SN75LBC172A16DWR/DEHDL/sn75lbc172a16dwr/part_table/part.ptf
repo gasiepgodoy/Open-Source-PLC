@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SN75LBC172A16DWR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "SN75LBC172A16DWR" (!) = "", "SOIC127P1030X265-16N", "Small Outline Packages", "595-SN75LBC172A16DWR", "https://www.mouser.com/Search/Refine.aspx?Keyword=595-SN75LBC172A16DWR", "SN75LBC172A16DWR", "https://www.arrow.com/en/products/sn75lbc172a16dwr/texas-instruments", "", "", "RS-485 Interface IC Quad RS-485 Diff Line Driver", "https://www.ti.com/lit/gpn/sn75lbc172a", "2.65 mm"
+END_PART
+
+END.

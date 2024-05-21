@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 08055A471JAT2A
+D AVX 0805 Standard 470pF Ceramic Multilayer Capacitor, 50 V dc, +125
+K
+F http://datasheets.avx.com/C0GNP0-Dielectric.pdf
+$ENDCMP
+#
+#End Doc Library

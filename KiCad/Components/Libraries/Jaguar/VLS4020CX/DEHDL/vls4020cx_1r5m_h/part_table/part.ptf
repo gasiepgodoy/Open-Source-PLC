@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'VLS4020CX_1R5M_H'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TDK", "VLS4020CX-1R5M-H" (!) = "", "VLS4020CX1R5MH", "Other", "810-VLS4020CX-1R5M-H", "https://www.mouser.co.uk/ProductDetail/TDK/VLS4020CX-1R5M-H?qs=vvQtp7zwQdMoi9tHBOeuEA%3D%3D", "", "", "Power Inductors - SMD 1.5uH 20% 0.06ohm 3.40A AEC-Q200", "https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_vls4020cx-h_en.pdf", "2 mm"
+END_PART
+
+END.

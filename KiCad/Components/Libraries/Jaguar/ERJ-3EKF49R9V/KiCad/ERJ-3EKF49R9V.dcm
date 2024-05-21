@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ERJ-3EKF49R9V
+D Thick Film Resistors - SMD 0603 49.9ohms 1% Tol
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf
+$ENDCMP
+#
+#End Doc Library

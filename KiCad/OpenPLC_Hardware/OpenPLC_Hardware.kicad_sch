@@ -1,0 +1,139 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid a481c43e-dfaa-47e3-9e80-946e07e82c03)
+
+  (paper "A4")
+
+  (title_block
+    (title "Open PLC Hardware")
+    (date "2023-02-24")
+    (company "OPA Foundation")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 187.96 74.93) (size 14.732 13.97) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 29ce6837-badd-496c-9c39-d853c033fd9a)
+    (property "Sheetname" "Encoder" (at 187.96 74.2184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Encoder.kicad_sch" (at 187.96 89.4846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "OpenPLC_Hardware"
+        (path "/a481c43e-dfaa-47e3-9e80-946e07e82c03" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 165.1 74.93) (size 17.78 13.97) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 79ef4fcd-12b3-4bcc-a026-3e2f4f0cd82b)
+    (property "Sheetname" "PWM" (at 165.1 74.2184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "PWM.kicad_sch" (at 165.1 89.4846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "OpenPLC_Hardware"
+        (path "/a481c43e-dfaa-47e3-9e80-946e07e82c03" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 101.6 74.93) (size 17.78 13.97)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid ae06bf25-7303-44ad-9047-a83c3e411aa9)
+    (property "Sheetname" "Analog Input" (at 101.6 74.2184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Analog_input.kicad_sch" (at 90.17 90.17 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "OpenPLC_Hardware"
+        (path "/a481c43e-dfaa-47e3-9e80-946e07e82c03" (page "8"))
+      )
+    )
+  )
+
+  (sheet (at 123.19 74.93) (size 38.1 41.91) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid ae8d3ad7-de34-4e8e-b1d3-ffba0247fc29)
+    (property "Sheetname" "Control" (at 123.19 74.2184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Control.kicad_sch" (at 123.19 117.4246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "OpenPLC_Hardware"
+        (path "/a481c43e-dfaa-47e3-9e80-946e07e82c03" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 101.6 101.6) (size 17.78 15.24)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid aeb24534-a6f1-46fa-941a-38461a9a7194)
+    (property "Sheetname" "Digital Inputs" (at 101.6 100.8884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Digital Inputs.kicad_sch" (at 88.9 118.11 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "OpenPLC_Hardware"
+        (path "/a481c43e-dfaa-47e3-9e80-946e07e82c03" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 132.842 57.658) (size 16.256 14.732) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid d256bc4b-695a-43a6-8020-92eeca05dfd8)
+    (property "Sheetname" "Power" (at 132.842 56.9464 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Power.kicad_sch" (at 132.842 72.9746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "OpenPLC_Hardware"
+        (path "/a481c43e-dfaa-47e3-9e80-946e07e82c03" (page "6"))
+      )
+    )
+  )
+
+  (sheet (at 165.1 101.6) (size 17.78 15.24) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid ecf77d85-94c8-43cf-810a-e095157ea43b)
+    (property "Sheetname" "Digital Outputs" (at 165.1 100.8884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Digital Outputs.kicad_sch" (at 165.1 117.4246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "OpenPLC_Hardware"
+        (path "/a481c43e-dfaa-47e3-9e80-946e07e82c03" (page "3"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

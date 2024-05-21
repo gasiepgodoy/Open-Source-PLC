@@ -1,0 +1,43 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model ULN2803AFWG_C,ELHA
+#/234187/450068/2.49/18/4/Integrated Circuit
+DEF ULN2803AFWG_C,ELHA IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "ULN2803AFWG_C,ELHA" 1050 200 50 H V L CNN
+F2 "SOIC127P1030X265-18N" 1050 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/ULN2803AFWG(C,ELHA.pdf" 1050 0 50 H I L CNN
+F4 "8 Channel High Current Driver SOL18P-300 T+R Lead" 1050 -100 50 H I L CNN "Description"
+F5 "2.65" 1050 -200 50 H I L CNN "Height"
+F6 "Toshiba" 1050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "ULN2803AFWG(C,ELHA" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "757-ULN2803AFWGCELHA" 1050 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Toshiba/ULN2803AFWGCELHA?qs=QhGSDAOLffLyZyOzY3%2FYww%3D%3D" 1050 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "ULN2803AFWG(C,ELHA" 1050 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/uln2803afwg-celha/toshiba" 1050 -800 50 H I L CNN "Arrow Price/Stock"
+F12 "" 1050 -900 50 H I L CNN "Mouser Testing Part Number"
+F13 "" 1050 -1000 50 H I L CNN "Mouser Testing Price/Stock"
+DRAW
+X I1 1 0 0 200 R 50 50 0 0 P
+X I2 2 0 -100 200 R 50 50 0 0 P
+X I3 3 0 -200 200 R 50 50 0 0 P
+X I4 4 0 -300 200 R 50 50 0 0 P
+X I5 5 0 -400 200 R 50 50 0 0 P
+X I6 6 0 -500 200 R 50 50 0 0 P
+X I7 7 0 -600 200 R 50 50 0 0 P
+X I8 8 0 -700 200 R 50 50 0 0 P
+X GND 9 0 -800 200 R 50 50 0 0 P
+X O1 18 1200 0 200 L 50 50 0 0 P
+X O2 17 1200 -100 200 L 50 50 0 0 P
+X O3 16 1200 -200 200 L 50 50 0 0 P
+X O4 15 1200 -300 200 L 50 50 0 0 P
+X O5 14 1200 -400 200 L 50 50 0 0 P
+X O6 13 1200 -500 200 L 50 50 0 0 P
+X O7 12 1200 -600 200 L 50 50 0 0 P
+X O8 11 1200 -700 200 L 50 50 0 0 P
+X COMMON 10 1200 -800 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -900 200 -900 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

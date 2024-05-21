@@ -1,0 +1,9 @@
+Manufacturer=BelFuse
+PartNumber=0ZCF0100AF2A
+PartCategory=Fuse
+PackageCategory=Fuses Chip
+PinCount=2
+Version=1.1
+Released=2019-02-11 07:06:06
+Downloaded=2023-02-16 19:33:49
+3D=Y

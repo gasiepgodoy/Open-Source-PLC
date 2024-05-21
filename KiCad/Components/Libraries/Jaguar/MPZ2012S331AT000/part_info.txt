@@ -1,0 +1,9 @@
+Manufacturer=TDK
+PartNumber=MPZ2012S331AT000
+PartCategory=Ferrite Bead
+PackageCategory=Inductors Chip
+PinCount=2
+Version=4.1
+Released=2017-07-18 09:05:44
+Downloaded=2023-06-08 15:06:39
+3D=Y

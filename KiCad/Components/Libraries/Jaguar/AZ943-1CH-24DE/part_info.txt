@@ -1,0 +1,9 @@
+Manufacturer=American Zettler
+PartNumber=AZ943-1CH-24DE
+PartCategory=Connector
+PackageCategory=Other
+PinCount=5
+Version=1.2
+Released=2021-12-01 10:52:08
+Downloaded=2023-06-08 15:11:29
+3D=Y

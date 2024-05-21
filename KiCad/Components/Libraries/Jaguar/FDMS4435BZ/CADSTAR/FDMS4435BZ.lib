@@ -1,0 +1,18 @@
+.FDMS4435BZ :1 ;MOSFET PowerTrench P-Ch 30V 18A Power56
+FDMS4435BZ
+*STM Q
+*NGS
+*PLB 1="S_1" 2="S_2" 3="S_3" 4="G" 5="D_1" 6="D_2" 7="D_3" 8="D_4" 9="D_5" 10="D_6" 11="D_7"
+*MXP 11
+*DFN FDMS4435BZ
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (FDMS4435BZ)
+~!Mouser Part Number (512-FDMS4435BZ)
+~!Link Mouser Price/Stock (http://www.mouser.com/Search/ProductDetail.aspx?qs=iQhsftLtcNQ543GBt6dzQg%3d%3d)
+~!Arrow Part Number (FDMS4435BZ)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/fdms4435bz/on-semiconductor?region=nac)
+~!Link Datasheet (https://www.onsemi.com/pdf/datasheet/fdms4435bz-d.pdf)
+~!Height (1.1mm)
+~!3D_Model (FDMS4435BZ)
+FDMS4435BZ
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 

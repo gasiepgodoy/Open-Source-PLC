@@ -1,0 +1,9 @@
+Manufacturer=Diodes Inc.
+PartNumber=DDZ20ASF-7
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Diode Flat Lead
+PinCount=2
+Version=1.1
+Released=2022-08-19 10:20:08
+Downloaded=2023-02-14 19:22:51
+3D=Y

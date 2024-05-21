@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ULN2803AFWG_C,ELHA
+D 8 Channel High Current Driver SOL18P-300 T+R Lead
+K
+F https://componentsearchengine.com/Datasheets/1/ULN2803AFWG(C,ELHA.pdf
+$ENDCMP
+#
+#End Doc Library

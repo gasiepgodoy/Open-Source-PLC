@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=FDN5618P
+PartCategory=MOSFET (P-Channel)
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=2.1
+Released=2019-02-10 07:02:25
+Downloaded=2023-02-16 19:46:09
+3D=Y

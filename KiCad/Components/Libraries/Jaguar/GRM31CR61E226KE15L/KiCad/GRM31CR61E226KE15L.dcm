@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GRM31CR61E226KE15L
+D Murata 1206 (3216M) 22uF MLCC 25V dc +/-10% SMD GRM31CR61E226KE15L
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/ec4f1577dddcc7a13ddad897a28002d3.pdf
+$ENDCMP
+#
+#End Doc Library

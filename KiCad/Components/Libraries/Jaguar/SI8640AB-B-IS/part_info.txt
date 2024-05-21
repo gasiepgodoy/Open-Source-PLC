@@ -1,0 +1,9 @@
+Manufacturer=Skyworks
+PartNumber=SI8640AB-B-IS
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=16
+Version=1.1
+Released=2021-09-03 10:21:48
+Downloaded=2023-01-25 17:17:50
+3D=Y

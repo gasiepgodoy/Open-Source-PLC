@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Si8641AB-B-IS1
+D Silicon Labs Si8641AB-B-IS1 PCB SMT 4-channel Digital Isolator, 2500 Vrms, 16-Pin SOIC
+K
+F https://www.silabs.com/documents/public/data-sheets/si86xx-1Mbps-datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

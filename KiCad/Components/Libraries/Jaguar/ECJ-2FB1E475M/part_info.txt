@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=ECJ-2FB1E475M
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=1.1
+Released=2020-08-08 11:05:43
+Downloaded=2023-02-16 19:39:57
+3D=Y

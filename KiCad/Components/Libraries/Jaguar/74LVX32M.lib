@@ -1,0 +1,37 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 74LVX32M
+#/582204/450068/2.49/14/0/Undefined or Miscellaneous
+DEF 74LVX32M U 0 30 Y Y 1 F N
+F0 "U" 850 300 50 H V L CNN
+F1 "74LVX32M" 850 200 50 H V L CNN
+F2 "SOIC127P600X175-14N" 850 100 50 H I L CNN
+F3 "" 850 0 50 H I L CNN
+F4 "Low Voltage Quad 2-Input OR Gate" 850 -100 50 H I L CNN "Description"
+F5 "" 850 -200 50 H I L CNN "Height"
+F6 "onsemi" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "74LVX32M" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "512-74LVX32M" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/74LVX32M/?qs=9QHlZzIagUaT%2FN4IZX0jJA%3D%3D" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 850 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 850 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X A0 1 0 0 200 R 50 50 0 0 P
+X B0 2 0 -100 200 R 50 50 0 0 P
+X O0 3 0 -200 200 R 50 50 0 0 P
+X A1 4 0 -300 200 R 50 50 0 0 P
+X B1 5 0 -400 200 R 50 50 0 0 P
+X O1 6 0 -500 200 R 50 50 0 0 P
+X GND 7 0 -600 200 R 50 50 0 0 P
+X O3 8 1000 -600 200 L 50 50 0 0 P
+X B3 9 1000 -500 200 L 50 50 0 0 P
+X A3 10 1000 -400 200 L 50 50 0 0 P
+X O2 11 1000 -300 200 L 50 50 0 0 P
+X B2 12 1000 -200 200 L 50 50 0 0 P
+X A2 13 1000 -100 200 L 50 50 0 0 P
+X VCC 14 1000 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -700 200 -700 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

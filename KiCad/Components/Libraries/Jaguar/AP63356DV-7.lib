@@ -1,0 +1,32 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model AP63356DV-7
+#/2433644/450068/2.50/9/3/Integrated Circuit
+DEF AP63356DV-7 IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "AP63356DV-7" 950 200 50 H V L CNN
+F2 "AP63356DV7" 950 100 50 H I L CNN
+F3 "https://www.diodes.com/assets/Datasheets/AP63356-AP63357.pdf" 950 0 50 H I L CNN
+F4 "Switching Voltage Regulators DCDC Conv HV Buck V-DFN3020-13 T&R 3K 3.8V TO 32V INPUT, 3.5A LOW IQ SYNCHRONOUS BUCK WITH ENHANCED EMI REDUCTION" 950 -100 50 H I L CNN "Description"
+F5 "0.85" 950 -200 50 H I L CNN "Height"
+F6 "Diodes Inc." 950 -300 50 H I L CNN "Manufacturer_Name"
+F7 "AP63356DV-7" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "621-AP63356DV-7" 950 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/AP63356DV-7?qs=bZr6mbWTK5k9UirUfdvjSw%3D%3D" 950 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "AP63356DV-7" 950 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/ap63356dv-7/diodes-incorporated?region=nac" 950 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X VIN 1 0 0 200 R 50 50 0 0 P
+X EN 2 0 -100 200 R 50 50 0 0 P
+X FB 3 0 -200 200 R 50 50 0 0 P
+X COMP 4 0 -300 200 R 50 50 0 0 P
+X PG 5 0 -400 200 R 50 50 0 0 P
+X BST 6 1100 0 200 L 50 50 0 0 P
+X NC 7 1100 -100 200 L 50 50 0 0 N
+X GND 8 1100 -200 200 L 50 50 0 0 P
+X SW 9 1100 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -500 200 -500 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

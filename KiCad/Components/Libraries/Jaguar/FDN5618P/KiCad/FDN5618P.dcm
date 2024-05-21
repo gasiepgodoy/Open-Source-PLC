@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FDN5618P
+D Trans MOSFET P-CH 60V 1.25A 3-SuperSOT
+K
+F https://www.onsemi.com/pub/Collateral/FDN5618P-D.PDF
+$ENDCMP
+#
+#End Doc Library

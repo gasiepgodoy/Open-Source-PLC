@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ERJ-3EKF1001V
+D Thick Film 0603 resistor 1K00 100mW 1% Panasonic ERJ3EK Series Precision Thick Film Surface Mount Resistor 0603 Case 1kOhm  /-1% 0.1W  /-100ppm/degC
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf
+$ENDCMP
+#
+#End Doc Library

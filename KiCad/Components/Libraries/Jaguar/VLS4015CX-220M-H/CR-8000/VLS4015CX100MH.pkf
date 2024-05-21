@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "VLS4015CX100MH"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "VLS4015CX100MH")
+        (spec "default")
+    )
+)

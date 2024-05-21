@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=ERA-2AED331X
+PartCategory=Resistor
+PackageCategory=Other
+PinCount=2
+Version=3.2
+Released=2020-10-27 04:26:14
+Downloaded=2023-02-24 17:06:17
+3D=Y

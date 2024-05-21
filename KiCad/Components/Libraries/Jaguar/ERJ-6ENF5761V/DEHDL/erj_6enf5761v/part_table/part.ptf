@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ERJ_6ENF5761V'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Panasonic", "ERJ-6ENF5761V" (!) = "", "ERJ6EN_(0805)", "Other", "667-ERJ-6ENF5761V", "https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-6ENF5761V?qs=50QC8w71jAsqu08%252B6O8pDA%3D%3D", "", "", "", "", "Thick Film Resistors - SMD 0805 5.76Kohms 1% AEC-Q200", "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf", "0.55 mm"
+END_PART
+
+END.

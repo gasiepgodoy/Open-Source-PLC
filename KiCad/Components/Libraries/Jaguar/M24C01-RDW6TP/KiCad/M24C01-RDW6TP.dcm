@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP M24C01-RDW6TP
+D M24C01-RDW6TP, Serial EEPROM Memory 1kbit, Serial-I2C, 900ns 1.8  5.5 V, 8-Pin TSSOP
+K
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00071904.pdf
+$ENDCMP
+#
+#End Doc Library

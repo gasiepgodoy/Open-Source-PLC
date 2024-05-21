@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM3485MMX_NOPB
+D 4.5-35V, Hysteretic Non-Synchronous PFET Buck Controller
+K
+F http://www.ti.com/lit/gpn/lm3485
+$ENDCMP
+#
+#End Doc Library

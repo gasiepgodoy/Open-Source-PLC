@@ -1,0 +1,9 @@
+Manufacturer=AVX
+PartNumber=08055A471JAT2A
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=3.1
+Released=2016-03-21 11:50:41
+Downloaded=2023-02-16 19:48:40
+3D=Y

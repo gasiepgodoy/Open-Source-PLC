@@ -1,0 +1,18 @@
+.DMP6350SQ-7 :1 ;MOSFET MOSFET BVDSS: 41V~60V SOT23 T&R 3K
+SOT96P240X110-3N
+*STM Q
+*NGS
+*PLB 1="G" 2="S" 3="D"
+*MXP 3
+*DFN DMP6350SQ-7
+~!Manufacturer_Name (Diodes Inc.)
+~!Manufacturer_Part_Number (DMP6350SQ-7)
+~!Mouser Part Number (621-DMP6350SQ-7)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMP6350SQ-7?qs=0lSvoLzn4L9E2rqiW%2FUVgw%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.diodes.com/assets/Datasheets/DMP6350SQ.pdf)
+~!Height (1.1mm)
+~!3D_Model (DMP6350SQ-7)
+DMP6350SQ-7
+1.1!U 2.1!U 3.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=Diodes Inc.
+PartNumber=DMP6350SQ-7
+PartCategory=MOSFET (P-Channel)
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=1.1
+Released=2020-10-08 04:54:12
+Downloaded=2023-06-09 14:37:39
+3D=Y

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SRU1063-220Y
+D Fixed Inductors 22uH 30% SMD 1063
+K
+F https://componentsearchengine.com/Datasheets/2/SRU1063-220Y.pdf
+$ENDCMP
+#
+#End Doc Library

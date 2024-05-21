@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '833H_1C_F_S_24VDC'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Song Chuan", "833H-1C-F-S-24VDC" (!) = "", "833H1CFS24VDC", "Other", "893-833H1CFS24VDC", "https://www.mouser.com/Search/Refine.aspx?Keyword=893-833H1CFS24VDC", "", "", "", "", "General Purpose Relays 10A, General Purpose Relay", "https://componentsearchengine.com/Datasheets/1/833H-1C-F-S-24VDC.pdf", "15.5 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=GRM1552C1H470JZ01C
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=1.1
+Released=2019-11-25 05:21:08
+Downloaded=2023-02-24 16:56:45
+3D=Y

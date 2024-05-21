@@ -1,0 +1,9 @@
+Manufacturer=AVX
+PartNumber=06035C222KAT2A
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=3.2
+Released=2016-03-31 06:57:42
+Downloaded=2023-02-13 19:43:54
+3D=Y

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ERJ-6ENF1000V
+D Precision Thick Film Chip Resistor, 0805, 0.125W
+K
+F http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf
+$ENDCMP
+#
+#End Doc Library

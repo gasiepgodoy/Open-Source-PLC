@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP3402KTTR-G1
+D Switching Voltage Regulators 1.0MHz 2A Step Down DC-DC Buck 2A Output
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/DKDS-29/576309.pdf
+$ENDCMP
+#
+#End Doc Library

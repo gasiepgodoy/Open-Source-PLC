@@ -1,0 +1,9 @@
+Manufacturer=TAIYO YUDEN
+PartNumber=GMK316BJ106KL-T
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=2.1
+Released=2017-11-02 09:52:13
+Downloaded=2023-02-13 19:44:16
+3D=Y

@@ -1,0 +1,111 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "2350514-3"
+   (description "2350514-3")
+   (family "CON")
+   (package "SHDRRA3W90P0X350_1X3_1110X920X691P")
+   (attribute "Datasheet Link" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2350514%7FA%7Fpdf%7FEnglish%7FENG_CD_2350514_A.pdf%7F2350514-3")
+   (attribute "Geometry.Height" "6.91mm")
+   (attribute "Manufacturer_Name" "TE Connectivity")
+   (attribute "Manufacturer_Part_Number" "2350514-3")
+   (attribute "Mouser Part Number" "571-2350514-3")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/2350514-3?qs=wnTfsH77Xs4%252BXocSlHm5VQ%3D%3D")
+   (attribute "Arrow Part Number" "2350514-3")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/2350514-3/te-connectivity?region=nac")
+   (gate
+    (symbol "2350514-3")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+   )
+  )
+  (symbol "2350514-3"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SHDRRA3W90P0X350_1X3_1110X920X691P"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -2.6 -1.588)
+      (pt 9.5 -1.588)
+      (pt 9.5 11.25)
+      (pt -2.6 11.25)
+      (pt -2.6 -1.588))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.35 1.5)
+      (pt -2.35 11)
+      (pt 9.25 11)
+      (pt 9.25 1.5)
+      (pt -2.35 1.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -2.35 0)
+      (pt -2.35 11)
+      (pt 9.25 11)
+      (pt 9.25 1.5))))
+   (leg 1 (pt 0 0) (padstack 1))
+   (leg 2 (pt 3.5 0) (padstack 0))
+   (leg 3 (pt 7 0) (padstack 0))
+   (padstack 0
+    (hole 1.45)
+    (plated true)
+    (pad (layer TCOP) (round 2.175))
+    (pad (layer INNER) (round 2.175))
+    (pad (layer BCOP) (round 2.175))
+   )
+   (padstack 1
+    (hole 1.45)
+    (plated true)
+    (pad (layer TCOP) (square 2.175))
+    (pad (layer INNER) (round 2.175))
+    (pad (layer BCOP) (square 2.175))
+   )
+   (model "2350514-3.stp"
+    (euler 90 0 180)
+    (offset 3.450000047683716 7.960000038146973 3.4100000858306885)
+   )
+  )
+ )
+)

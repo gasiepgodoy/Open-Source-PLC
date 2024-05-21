@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SN74AHC08PW"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-09-13-16:10:54)
+    (mountForm default
+        (footprintRef "SOP65P640X120-14N")
+        (spec "System")
+    )
+)

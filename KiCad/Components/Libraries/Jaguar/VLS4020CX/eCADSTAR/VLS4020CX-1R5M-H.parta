@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_17058153"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-01-27-12:47:42)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "VLS4020CX-1R5M-H")
+)
+
+
+(pinAssign "ECS_17058153"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-01-27-12:47:42)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_17058153")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "VLS4020CX-1R5M-H")
+)
+
+
+(part "VLS4020CX-1R5M-H"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-01-27-12:47:42)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "VLS4020CX-1R5M-H")
+    (pinAssignRef "ECS_17058153")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "L")
+    (property "description" "Power Inductors - SMD 1.5uH 20% 0.06ohm 3.40A AEC-Q200")
+    (property "Manufacturer_Name" "TDK")
+    (property "Manufacturer_Part_Number" "VLS4020CX-1R5M-H")
+    (property "Mouser_Part_Number" "810-VLS4020CX-1R5M-H")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/VLS4020CX-1R5M-H?qs=vvQtp7zwQdMoi9tHBOeuEA%3D%3D")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_vls4020cx-h_en.pdf")
+    (property "compAreaTopHeight" 2)
+)
+
+

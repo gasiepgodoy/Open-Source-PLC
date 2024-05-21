@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LCX14MTC
+D 74LCX14MTC, CMOS Hex Schmitt Trigger Inverter, LCX, 24mA 2  3.6 V 14-Pin TSSOP
+K
+F https://www.onsemi.com/pub/Collateral/74LCX14-D.pdf
+$ENDCMP
+#
+#End Doc Library

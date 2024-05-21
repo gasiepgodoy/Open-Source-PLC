@@ -1,0 +1,9 @@
+Manufacturer=Diodes Inc.
+PartNumber=MMBT2907A-7-F
+PartCategory=Transistor BJT PNP
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=1.2
+Released=2018-02-04 23:18:48
+Downloaded=2023-02-16 19:34:27
+3D=Y

@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_238027"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2015-11-06-07:16:51)
+    (utime 2020-03-02-16:30:28)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "HT-191NB-YYYY")
+)
+
+
+(pinAssign "ECS_238027"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2015-11-06-07:16:51)
+    (utime 2020-03-02-16:30:28)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_238027")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "HT-191NB-YYYY")
+)
+
+
+(part "HT-191NB-YYYY"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2015-11-06-07:16:51)
+    (utime 2020-03-02-16:30:28)
+    (packageRef "HT-191NB-YYYY")
+    (pinAssignRef "ECS_238027")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "LED")
+    (property "description" "Top-emitting 0603 (1608) HT-191 Series")
+    (property "Manufacturer_Name" "Harvatek")
+    (property "Manufacturer_Part_Number" "HT-191NB-YYYY")
+    (property "Mouser_Part_Number" "")
+    (property "Mouser_Price/Stock" "")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Mouser_Testing_Part_Number" "")
+    (property "Mouser_Testing_Price/Stock" "")
+    (property "Datasheet_Link" "https://datasheet.octopart.com/HT-191TW-Harvatek-datasheet-11745710.pdf")
+    (property "compAreaTopHeight" 0.6)
+)
+
+

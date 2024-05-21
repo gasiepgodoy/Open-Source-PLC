@@ -1,0 +1,20 @@
+.SI8640AB-B-IS :1 ;DGTL ISO 2500VRMS 4CH GP 16SOIC
+SOIC127P600X175-16N
+*STM IC
+*NGS
+*PLB 1="VDD1" 2="GND1_1" 3="A1" 4="A2" 5="A3" 6="A4" 7="NC" 8="GND1_2" 9="GND2_1" 10="EN2" 11="B4" 12="B3" 13="B2" 14="B1" 15="GND2_2" 16="VDD2"
+*MXP 16
+*DFN SI8640AB-B-IS
+~!Manufacturer_Name (Skyworks)
+~!Manufacturer_Part_Number (SI8640AB-B-IS)
+~!Mouser Part Number (634-SI8640AB-B-IS)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Skyworks-Solutions-Inc/SI8640AB-B-IS?qs=j6MGy4L9yX0GpgQO5d7agw%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://www.skyworksinc.com/-/media/Skyworks/SL/documents/public/data-sheets/si86xx-1Mbps-datasheet.pdf)
+~!Height (1.75mm)
+~!3D_Model (SI8640AB-B-IS)
+SI8640AB-B-IS
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 

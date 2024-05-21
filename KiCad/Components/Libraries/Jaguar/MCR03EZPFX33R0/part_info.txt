@@ -1,0 +1,9 @@
+Manufacturer=ROHM Semiconductor
+PartNumber=MCR03EZPFX33R0
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=1.1
+Released=2016-09-06 12:31:31
+Downloaded=2023-02-16 19:07:30
+3D=Y

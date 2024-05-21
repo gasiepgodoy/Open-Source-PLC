@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=GRM31CR61H106KA12L
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=2.1
+Released=2016-06-17 20:09:57
+Downloaded=2023-02-13 19:43:15
+3D=Y

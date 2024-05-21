@@ -1,0 +1,33 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model LM3485MMX_NOPB
+#/318988/450068/2.49/8/3/Integrated Circuit
+DEF LM3485MMX_NOPB IC 0 30 Y Y 1 F N
+F0 "IC" 1250 300 50 H V L CNN
+F1 "LM3485MMX_NOPB" 1250 200 50 H V L CNN
+F2 "SOP65P490X110-8N" 1250 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/lm3485" 1250 0 50 H I L CNN
+F4 "4.5-35V, Hysteretic Non-Synchronous PFET Buck Controller" 1250 -100 50 H I L CNN "Description"
+F5 "1.1" 1250 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 1250 -300 50 H I L CNN "Manufacturer_Name"
+F7 "LM3485MMX/NOPB" 1250 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "926-LM3485MMX/NOPB" 1250 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM3485MMX-NOPB?qs=X1J7HmVL2ZGdhzJdAW27lw%3D%3D" 1250 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "LM3485MMX/NOPB" 1250 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/lm3485mmxnopb/texas-instruments?region=nac" 1250 -800 50 H I L CNN "Arrow Price/Stock"
+F12 "" 1250 -900 50 H I L CNN "Mouser Testing Part Number"
+F13 "" 1250 -1000 50 H I L CNN "Mouser Testing Price/Stock"
+DRAW
+X ISENSE 1 0 0 200 R 50 50 0 0 P
+X GND 2 0 -100 200 R 50 50 0 0 P
+X NC 3 0 -200 200 R 50 50 0 0 N
+X FB 4 0 -300 200 R 50 50 0 0 P
+X VIN 8 1400 0 200 L 50 50 0 0 P
+X PGATE 7 1400 -100 200 L 50 50 0 0 P
+X PWR_GND 6 1400 -200 200 L 50 50 0 0 P
+X ADJ 5 1400 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1200 100 1200 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

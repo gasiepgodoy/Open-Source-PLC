@@ -1,0 +1,20 @@
+.ERJ-6ENF5761V :1 ;Thick Film Resistors - SMD 0805 5.76Kohms 1% AEC-Q200
+ERJ6EN__0805_
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN ERJ-6ENF5761V
+~!Manufacturer_Name (Panasonic)
+~!Manufacturer_Part_Number (ERJ-6ENF5761V)
+~!Mouser Part Number (667-ERJ-6ENF5761V)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-6ENF5761V?qs=50QC8w71jAsqu08%252B6O8pDA%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf)
+~!Height (0.55mm)
+~!3D_Model (ERJ-6ENF5761V)
+ERJ-6ENF5761V
+1.1!U 2.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=TAIYO YUDEN
+PartNumber=LMK107BJ475KA-T
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=2.1
+Released=2019-06-24 16:47:11
+Downloaded=2023-02-16 19:23:56
+3D=Y

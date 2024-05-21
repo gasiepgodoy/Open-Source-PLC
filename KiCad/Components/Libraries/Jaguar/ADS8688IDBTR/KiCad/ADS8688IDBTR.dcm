@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADS8688IDBTR
+D Octal Channel Single ADC SAR 500ksps 16-bit Serial 38-Pin TSSOP T/R
+K
+F https://www.arrow.com/en/products/ads8688idbtr/texas-instruments
+$ENDCMP
+#
+#End Doc Library

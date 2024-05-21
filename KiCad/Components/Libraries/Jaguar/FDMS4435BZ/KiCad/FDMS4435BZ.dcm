@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FDMS4435BZ
+D MOSFET PowerTrench P-Ch 30V 18A Power56
+K
+F https://www.onsemi.com/pdf/datasheet/fdms4435bz-d.pdf
+$ENDCMP
+#
+#End Doc Library

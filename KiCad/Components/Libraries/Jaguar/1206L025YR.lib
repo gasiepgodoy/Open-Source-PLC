@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 1206L025YR
+#/285594/450068/2.49/2/4/Resettable Fuse
+DEF 1206L025YR F 0 30 Y Y 1 F N
+F0 "F" 550 250 50 H V L CNN
+F1 "1206L025YR" 550 150 50 H V L CNN
+F2 "FUSC3216X100N" 550 50 50 H I L CNN
+F3 "http://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_1206l_datasheet.pdf.pdf" 550 -50 50 H I L CNN
+F4 "Resettable POLYFUSE 100A 16V Littelfuse 0.25A Surface Mount Resettable Fuse, 16 V dc" 550 -150 50 H I L CNN "Description"
+F5 "1" 550 -250 50 H I L CNN "Height"
+F6 "LITTELFUSE" 550 -350 50 H I L CNN "Manufacturer_Name"
+F7 "1206L025YR" 550 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "576-1206L025YR" 550 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Littelfuse/1206L025YR?qs=PWhpLWeW8wedgRREX8zxcg%3D%3D" 550 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "1206L025YR" 550 -750 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/1206l025yr/littelfuse?region=europe" 550 -850 50 H I L CNN "Arrow Price/Stock"
+F12 "" 550 -950 50 H I L CNN "Mouser Testing Part Number"
+F13 "" 550 -1050 50 H I L CNN "Mouser Testing Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+P 4 0 1 6 220 -80 280 -80 420 80 480 80 N
+ENDDRAW
+ENDDEF
+#
+#End Library

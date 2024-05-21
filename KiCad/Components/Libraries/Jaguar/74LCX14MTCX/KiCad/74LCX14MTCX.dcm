@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LCX14MTCX
+D 74LCX14MTCX, Schmitt Trigger Inverter,
+K
+F https://www.onsemi.com/pub/Collateral/948G.PDF
+$ENDCMP
+#
+#End Doc Library

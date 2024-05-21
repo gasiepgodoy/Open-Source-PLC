@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74AHC08PW
+D Quadruple 2-Input Positive-AND Gates
+K
+F http://www.ti.com/lit/gpn/SN74AHC08
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ST26C32ABTR
+D ST26C32ABTR, Quad Line Receiver, EIA-423, EIA-422, RS-423, RS-422, 20Mbit/s Differential 5 V 16-Pin TSSOP
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-5/DSA-99407.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+Manufacturer=Eaton
+PartNumber=0603ESDA2-TR2
+PartCategory=Diode
+PackageCategory=Diodes Chip Non-polarised
+PinCount=2
+Version=1.1
+Released=2018-07-12 06:47:34
+Downloaded=2023-02-24 17:37:04
+3D=Y

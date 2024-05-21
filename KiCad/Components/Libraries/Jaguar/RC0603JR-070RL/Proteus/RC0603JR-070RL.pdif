@@ -1,0 +1,95 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "RC0603JR-070RL"
+   (description "YAGEO (PHYCOMP) - RC0603JR-070RL - RES, THICK FILM, 0R, 5%, 0.1W, 0603")
+   (family "RES")
+   (package "RESC1608X55N")
+   (attribute "Datasheet Link" "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/902f9e387b938f871d31120f5fc1d65e.pdf")
+   (attribute "Geometry.Height" "0.55mm")
+   (attribute "Manufacturer_Name" "KEMET")
+   (attribute "Manufacturer_Part_Number" "RC0603JR-070RL")
+   (attribute "Mouser Part Number" "603-RC0603JR-070RL")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603JR-070RL?qs=2cAdsCoAWRGWyPcuXgGiXQ%3D%3D")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (attribute "Mouser Testing Part Number" "")
+   (attribute "Mouser Testing Price/Stock" "")
+   (gate
+    (symbol "RC0603JR-070RL")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "RC0603JR-070RL"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 50) (pt 500 50) (pt 500 -50) (pt 200 -50) (pt 200 50) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 700 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "RESC1608X55N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -1.45 0.75)
+      (pt 1.45 0.75)
+      (pt 1.45 -0.75)
+      (pt -1.45 -0.75)
+      (pt -1.45 0.75))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.8 0.4)
+      (pt 0.8 0.4)
+      (pt 0.8 -0.4)
+      (pt -0.8 -0.4)
+      (pt -0.8 0.4))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 0 0.3)
+      (pt 0 -0.3))))
+   (leg 1 (pt -0.8 0) (padstack 0))
+   (leg 2 (pt 0.8 0) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.8 0.95 0 0 90))
+   )
+   (model "RC0603JR-070RL.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

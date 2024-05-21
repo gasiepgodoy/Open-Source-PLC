@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN75LBC172A16DW
+D Texas Instruments SN75LBC172A16DW Quad EIA/TIA-422/ EIA/TIA-485/ RS-485, Line Transmitter Differential 5 V, 16-Pin SOIC
+K
+F http://www.ti.com/lit/gpn/SN75LBC172A
+$ENDCMP
+#
+#End Doc Library

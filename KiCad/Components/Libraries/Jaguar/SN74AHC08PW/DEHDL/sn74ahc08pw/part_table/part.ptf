@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SN74AHC08PW'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "SN74AHC08PW" (!) = "", "SOP65P640X120-14N", "Small Outline Packages", "595-SN74AHC08PW", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74AHC08PW?qs=3pnr37ZAbK%252BIPRPPiAPWMg%3D%3D", "SN74AHC08PW", "https://www.arrow.com/en/products/sn74ahc08pw/texas-instruments", "", "", "Quadruple 2-Input Positive-AND Gates", "http://www.ti.com/lit/gpn/SN74AHC08", "1.2 mm"
+END_PART
+
+END.

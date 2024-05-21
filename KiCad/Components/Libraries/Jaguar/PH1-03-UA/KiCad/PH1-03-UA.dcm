@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PH1-03-UA
+D CONN HEADER VERT 3POS 2.54MM
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/34c52fbb4019bb4b288b881302863af3.pdf
+$ENDCMP
+#
+#End Doc Library

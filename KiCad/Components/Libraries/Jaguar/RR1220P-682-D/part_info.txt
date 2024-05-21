@@ -1,0 +1,9 @@
+Manufacturer=Susumu
+PartNumber=RR1220P-682-D
+PartCategory=Resistor
+PackageCategory=Other
+PinCount=2
+Version=1.1
+Released=2017-01-12 09:36:53
+Downloaded=2023-02-16 19:10:29
+3D=Y

@@ -1,0 +1,9 @@
+Manufacturer=Adam Tech
+PartNumber=PH1-03-UA
+PartCategory=Connector
+PackageCategory=Header, Vertical
+PinCount=3
+Version=1.1
+Released=2019-08-15 12:13:57
+Downloaded=2023-06-08 15:08:55
+3D=Y

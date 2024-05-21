@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ULN2803AFWG_C_ELHA"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-03-10-00:00:11)
+    (mountForm default
+        (footprintRef "SOIC127P1030X265-18N")
+        (spec "System")
+    )
+)

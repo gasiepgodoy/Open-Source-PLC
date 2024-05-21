@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DMG1029SV_7'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Diodes Inc.", "DMG1029SV-7" (!) = "", "SOTFL50P162X60-6N", "SO Transistor Flat Lead", "621-DMG1029SV-7", "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMG1029SV-7?qs=gfe7vQ8txpXkNqlWcYvGlA%3D%3D", "DMG1029SV-7", "https://www.arrow.com/en/products/dmg1029sv-7/diodes-incorporated", "", "", "Diodes Inc DMG1029SV-7 Dual N/P-channel MOSFET Transistor, 6-Pin SOT-563", "https://www.diodes.com/assets/Datasheets/DMG1029SV.pdf", "0.6 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=KEMET
+PartNumber=RC0603JR-070RL
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=2.1
+Released=2016-07-07 13:24:10
+Downloaded=2023-01-25 18:18:46
+3D=Y

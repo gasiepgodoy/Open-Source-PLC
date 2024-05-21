@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 0ZCF0100AF2A
+#/861916/450068/2.49/2/3/Fuse
+DEF 0ZCF0100AF2A F 0 30 Y Y 1 F N
+F0 "F" 550 250 50 H V L CNN
+F1 "0ZCF0100AF2A" 550 150 50 H V L CNN
+F2 "FUSC7451X170N" 550 50 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/0ZCF0100AF2A.pdf" 550 -50 50 H I L CNN
+F4 "Resettable Fuses - PPTC 1A 60V PPTC 2920 SMD" 550 -150 50 H I L CNN "Description"
+F5 "1.7" 550 -250 50 H I L CNN "Height"
+F6 "BelFuse" 550 -350 50 H I L CNN "Manufacturer_Name"
+F7 "0ZCF0100AF2A" 550 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "530-0ZCF0100AF2A" 550 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Bel-Fuse/0ZCF0100AF2A?qs=jyPKP7YLNfDyY7GbSCl%252BVQ%3D%3D" 550 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "0ZCF0100AF2A" 550 -750 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/0zcf0100af2a/bel-group" 550 -850 50 H I L CNN "Arrow Price/Stock"
+F12 "" 550 -950 50 H I L CNN "Mouser Testing Part Number"
+F13 "" 550 -1050 50 H I L CNN "Mouser Testing Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+P 2 0 1 6 200 0 500 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library

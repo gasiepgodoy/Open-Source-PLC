@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1SMA10CAT3G
+D 400 W, BIDIRECTIONAL, SILICON, TVS DIODE
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-24/DSA-461306.pdf
+$ENDCMP
+#
+#End Doc Library

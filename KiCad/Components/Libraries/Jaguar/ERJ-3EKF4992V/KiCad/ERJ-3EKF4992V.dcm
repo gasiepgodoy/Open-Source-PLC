@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ERJ-3EKF4992V
+D Thick Film Resistors - SMD 0603 49.9Kohms 1% AEC-Q200
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "833H1CFS24VDC"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "833H1CFS24VDC")
+        (spec "default")
+    )
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SZ1SMA33CAT3G
+D ESD Suppressors / TVS Diodes 33V 400W BI-DIR SZ1SMA AEC-Q101
+K
+F https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_sz1sma_datasheet.pdf.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,192 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "FDMS4435BZ"
+   (description "MOSFET PowerTrench P-Ch 30V 18A Power56")
+   (family "TRX")
+   (package "FDMS4435BZ")
+   (attribute "Datasheet Link" "https://www.onsemi.com/pdf/datasheet/fdms4435bz-d.pdf")
+   (attribute "Geometry.Height" "1.1mm")
+   (attribute "Manufacturer_Name" "onsemi")
+   (attribute "Manufacturer_Part_Number" "FDMS4435BZ")
+   (attribute "Mouser Part Number" "512-FDMS4435BZ")
+   (attribute "Mouser Price/Stock" "http://www.mouser.com/Search/ProductDetail.aspx?qs=iQhsftLtcNQ543GBt6dzQg%3d%3d")
+   (attribute "Arrow Part Number" "FDMS4435BZ")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/fdms4435bz/on-semiconductor?region=nac")
+   (gate
+    (symbol "FDMS4435BZ")
+    (pin "S_1" 1 PS)
+    (pin "S_2" 2 PS)
+    (pin "S_3" 3 PS)
+    (pin "G" 4 PS)
+    (pin "D_1" 5 PS)
+    (pin "D_2" 6 PS)
+    (pin "D_3" 7 PS)
+    (pin "D_4" 8 PS)
+    (pin "D_5" 9 PS)
+    (pin "D_6" 10 PS)
+    (pin "D_7" 11 PS)
+   )
+  )
+  (symbol "FDMS4435BZ"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 800 100) (pt 800 -600) (pt 200 -600) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "FDMS4435BZ"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.45 2.9)
+      (pt 2.45 2.9)
+      (pt 2.45 -2.9)
+      (pt -2.45 -2.9)
+      (pt -2.45 2.9))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.45 4.305)
+      (pt 3.45 4.305)
+      (pt 3.45 -4.305)
+      (pt -3.45 -4.305)
+      (pt -3.45 4.305))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -2.45 1.8)
+      (pt -2.45 -1.8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 2.45 1.8)
+      (pt 2.45 -1.8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.905 -3.87)
+      (arc (pt -1.905 -3.870) (pt -1.955 -3.870) (pt -1.855 -3.770) (start 180.0) (sweep -90.0))
+      (pt -1.905 -3.77)
+      (arc (pt -1.905 -3.770) (pt -1.955 -3.870) (pt -1.855 -3.770) (start 180.0) (sweep 90.0))
+      (pt -1.905 -3.87))))
+   (leg 1 (pt -1.905 -2.670) (padstack 0))
+   (leg 2 (pt -0.635 -2.670) (padstack 0))
+   (leg 3 (pt 0.635 -2.670) (padstack 0))
+   (leg 4 (pt 1.905 -2.670) (padstack 0))
+   (leg 5 (pt 1.905 2.920) (padstack 5))
+   (leg 6 (pt 0.635 2.920) (padstack 6))
+   (leg 7 (pt -0.635 2.920) (padstack 7))
+   (leg 8 (pt -1.905 2.920) (padstack 8))
+   (leg 9 (pt 0.000 0.660) (padstack 9))
+   (leg 10 (pt -2.081 2.285) (padstack 10))
+   (leg 11 (pt 2.081 2.285) (padstack 11))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.610 1.270 0 0 90.000))
+   )
+   (padstack 5
+    (plated false)
+    (pad (layer TCOP) (rectf 0.610 0.770 0 0 90.000))
+   )
+   (padstack 6
+    (plated false)
+    (pad (layer TCOP) (rectf 0.610 0.770 0 0 90.000))
+   )
+   (padstack 7
+    (plated false)
+    (pad (layer TCOP) (rectf 0.610 0.770 0 0 90.000))
+   )
+   (padstack 8
+    (plated false)
+    (pad (layer TCOP) (rectf 0.610 0.770 0 0 90.000))
+   )
+   (padstack 9
+    (plated false)
+    (pad (layer TCOP) (rectf 3.750 3.910 0 0 0.000))
+   )
+   (padstack 10
+    (plated false)
+    (pad (layer TCOP) (rectf 0.250 0.500 0 0 90.000))
+   )
+   (padstack 11
+    (plated false)
+    (pad (layer TCOP) (rectf 0.250 0.500 0 0 90.000))
+   )
+   (model "FDMS4435BZ.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

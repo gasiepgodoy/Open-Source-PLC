@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=GRM31CR61E226KE15L
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=2.1
+Released=2016-06-17 20:09:57
+Downloaded=2023-02-01 21:07:46
+3D=Y

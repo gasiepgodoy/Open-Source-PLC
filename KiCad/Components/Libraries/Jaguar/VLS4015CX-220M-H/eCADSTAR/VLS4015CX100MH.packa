@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "VLS4015CX-220M-H"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-03-18-16:57:22)
+    (mountForm default
+        (footprintRef "VLS4015CX100MH")
+        (spec "System")
+    )
+)

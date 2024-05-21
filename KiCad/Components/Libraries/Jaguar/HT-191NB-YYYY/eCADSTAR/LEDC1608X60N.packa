@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "HT-191NB-YYYY"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-03-02-16:30:28)
+    (mountForm default
+        (footprintRef "LEDC1608X60N")
+        (spec "System")
+    )
+)

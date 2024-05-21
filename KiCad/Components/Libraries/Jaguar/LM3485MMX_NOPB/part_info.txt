@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=LM3485MMX/NOPB
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2020-12-02 11:14:46
+Downloaded=2023-02-16 19:45:36
+3D=Y

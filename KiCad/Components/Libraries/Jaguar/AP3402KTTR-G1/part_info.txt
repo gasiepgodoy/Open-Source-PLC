@@ -1,0 +1,9 @@
+Manufacturer=Diodes Inc.
+PartNumber=AP3402KTTR-G1
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (6-Pin)
+PinCount=6
+Version=2.1
+Released=2019-02-28 04:21:25
+Downloaded=2023-06-08 15:44:07
+3D=Y

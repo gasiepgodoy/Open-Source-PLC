@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADM3222ARUZ
+D Analog Devices ADM3222ARUZ, Line Transceiver, EIA/TIA-232-E, RS-232, V.28 2-TX 2-RX 2-TRX, 3.3 V, 20-Pin TSSOP
+K
+F http://componentsearchengine.com/Datasheets/1/ADM3222ARUZ.pdf
+$ENDCMP
+#
+#End Doc Library

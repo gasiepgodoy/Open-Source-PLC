@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ULN2803AFWG_C_ELHA'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Toshiba", "ULN2803AFWG(C,ELHA" (!) = "", "SOIC127P1030X265-18N", "Small Outline Packages", "757-ULN2803AFWGCELHA", "https://www.mouser.co.uk/ProductDetail/Toshiba/ULN2803AFWGCELHA?qs=QhGSDAOLffLyZyOzY3%2FYww%3D%3D", "ULN2803AFWG(C,ELHA", "https://www.arrow.com/en/products/uln2803afwg-celha/toshiba", "", "", "8 Channel High Current Driver SOL18P-300 T+R Lead", "https://componentsearchengine.com/Datasheets/1/ULN2803AFWG(C,ELHA.pdf", "2.65 mm"
+END_PART
+
+END.

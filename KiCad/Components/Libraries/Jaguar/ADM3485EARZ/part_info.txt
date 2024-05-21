@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=ADM3485EARZ
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=5.1
+Released=2017-01-11 11:21:59
+Downloaded=2023-02-22 20:10:24
+3D=Y

@@ -1,0 +1,156 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "DMP6350SQ-7"
+   (description "MOSFET MOSFET BVDSS: 41V~60V SOT23 T&R 3K")
+   (family "TRX")
+   (package "SOT96P240X110-3N")
+   (attribute "Datasheet Link" "https://www.diodes.com/assets/Datasheets/DMP6350SQ.pdf")
+   (attribute "Geometry.Height" "1.1mm")
+   (attribute "Manufacturer_Name" "Diodes Inc.")
+   (attribute "Manufacturer_Part_Number" "DMP6350SQ-7")
+   (attribute "Mouser Part Number" "621-DMP6350SQ-7")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMP6350SQ-7?qs=0lSvoLzn4L9E2rqiW%2FUVgw%3D%3D")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "DMP6350SQ-7")
+    (pin "G" 1 PS)
+    (pin "D" 3 PS)
+    (pin "S" 2 PS)
+   )
+  )
+  (symbol "DMP6350SQ-7"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (circle (pt 400 100) (pt 100 100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 300 100) (pt 300 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 300 200) (pt 300 300))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 100 0) (pt 200 0) (pt 200 200))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 300 100) (pt 230 100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 300 200) (pt 230 200))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 230 0) (pt 300 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 230 220) (pt 230 180))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 230 -20) (pt 230 20))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 230 80) (pt 230 120))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt 300 100) (pt 260 120) (pt 260 80) (pt 300 100))
+   )
+   (terminal
+    (body (symbol "PINSHORT") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -20) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 80 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 300 400) (rot 90) (mir X) (visible true))
+    (name (pt 0 -20) (rot 90) (just TOP RIGHT) (visible false))
+    (number (pt 0 20) (rot 90) (just TOP LEFT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 300 -200) (rot 90) (mir 0) (visible true))
+    (name (pt 0 -20) (rot 90) (just TOP RIGHT) (visible false))
+    (number (pt 0 20) (rot 90) (just TOP LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOT96P240X110-3N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -1.85 1.75)
+      (pt 1.85 1.75)
+      (pt 1.85 -1.75)
+      (pt -1.85 -1.75)
+      (pt -1.85 1.75))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.65 1.45)
+      (pt 0.65 1.45)
+      (pt 0.65 -1.45)
+      (pt -0.65 -1.45)
+      (pt -0.65 1.45))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -0.65 0.49)
+      (pt 0.31 1.45))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -0.15 1.45)
+      (pt 0.15 1.45)
+      (pt 0.15 -1.45)
+      (pt -0.15 -1.45)
+      (pt -0.15 1.45))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1.6 1.535)
+      (pt -0.5 1.535))))
+   (leg 1 (pt -1.05 0.96) (padstack 0))
+   (leg 2 (pt -1.05 -0.96) (padstack 0))
+   (leg 3 (pt 1.05 0) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.65 1.1 0 0 0))
+   )
+   (model "DMP6350SQ-7.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

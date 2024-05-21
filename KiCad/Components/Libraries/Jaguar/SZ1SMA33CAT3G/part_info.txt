@@ -1,0 +1,9 @@
+Manufacturer=LITTELFUSE
+PartNumber=SZ1SMA33CAT3G
+PartCategory=TVS Diode (Bi-directional)
+PackageCategory=Diodes Moulded Non Polarised
+PinCount=2
+Version=2.1
+Released=2022-05-20 09:42:00
+Downloaded=2023-02-16 19:31:46
+3D=Y

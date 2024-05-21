@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=2N7002L
+PartCategory=MOSFET (N-Channel)
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=3.1
+Released=2018-10-16 16:53:38
+Downloaded=2023-06-09 14:32:42
+3D=Y

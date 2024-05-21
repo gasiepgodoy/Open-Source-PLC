@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=ERJ-6ENF1000V
+PartCategory=Resistor
+PackageCategory=Other
+PinCount=2
+Version=3.1
+Released=2017-01-11 19:26:16
+Downloaded=2023-02-16 19:27:09
+3D=Y

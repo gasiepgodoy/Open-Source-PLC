@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74AUP1T02DCKR
+D Low Power, 1.8/2.5/3.3-V In, 3.3-V CMOS Out, Single 2-Input Positive-NOR Gate
+K
+F http://www.ti.com/lit/gpn/sn74aup1t02
+$ENDCMP
+#
+#End Doc Library

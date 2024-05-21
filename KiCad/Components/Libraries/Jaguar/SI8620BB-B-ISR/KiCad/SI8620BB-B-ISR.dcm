@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SI8620BB-B-ISR
+D SILICON LABS - SI8620BB-B-ISR - Digital Isolator, 2 Channel, 8 ns, 2.5 V, 5.5 V, SOIC, 8 Pins
+K
+F https://www.silabs.com/documents/public/data-sheets/si861x-2x-datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

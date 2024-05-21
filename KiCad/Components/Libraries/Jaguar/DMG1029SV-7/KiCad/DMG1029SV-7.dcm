@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DMG1029SV-7
+D Diodes Inc DMG1029SV-7 Dual N/P-channel MOSFET Transistor, 6-Pin SOT-563
+K
+F https://www.diodes.com/assets/Datasheets/DMG1029SV.pdf
+$ENDCMP
+#
+#End Doc Library

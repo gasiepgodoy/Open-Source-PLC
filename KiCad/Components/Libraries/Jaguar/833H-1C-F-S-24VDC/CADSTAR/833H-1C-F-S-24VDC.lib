@@ -1,0 +1,20 @@
+.833H-1C-F-S-24VDC :1 ;General Purpose Relays 10A, General Purpose Relay
+"833H1CFS24VDC"
+*STM K
+*NGS
+*PLB 1="COIL_1" 2="NC" 3="NO" 4="COIL_2" 5="COM"
+*MXP 5
+*DFN 833H-1C-F-S-24VDC
+~!Manufacturer_Name (Song Chuan)
+~!Manufacturer_Part_Number (833H-1C-F-S-24VDC)
+~!Mouser Part Number (893-833H1CFS24VDC)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=893-833H1CFS24VDC)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/833H-1C-F-S-24VDC.pdf)
+~!Height (15.5mm)
+~!3D_Model (833H-1C-F-S-24VDC)
+"833H-1C-F-S-24VDC"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

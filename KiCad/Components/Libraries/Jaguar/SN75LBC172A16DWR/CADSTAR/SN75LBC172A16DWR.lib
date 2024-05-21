@@ -1,0 +1,20 @@
+.SN75LBC172A16DWR :1 ;RS-485 Interface IC Quad RS-485 Diff Line Driver
+SOIC127P1030X265-16N
+*STM IC
+*NGS
+*PLB 1="1A" 2="1Y" 3="1Z" 4="G" 5="2Z" 6="2Y" 7="2A" 8="GND" 9="3A" 10="3Y" 11="3Z" 12="'G'" 13="4Z" 14="4Y" 15="4A" 16="VCC"
+*MXP 16
+*DFN SN75LBC172A16DWR
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (SN75LBC172A16DWR)
+~!Mouser Part Number (595-SN75LBC172A16DWR)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=595-SN75LBC172A16DWR)
+~!Arrow Part Number (SN75LBC172A16DWR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/sn75lbc172a16dwr/texas-instruments)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://www.ti.com/lit/gpn/sn75lbc172a)
+~!Height (2.65mm)
+~!3D_Model (SN75LBC172A16DWR)
+SN75LBC172A16DWR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 

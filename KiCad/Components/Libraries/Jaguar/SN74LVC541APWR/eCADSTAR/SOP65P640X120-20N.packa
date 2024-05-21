@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SN74LVC541APWR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-11-22-06:28:41)
+    (mountForm default
+        (footprintRef "SOP65P640X120-20N")
+        (spec "System")
+    )
+)

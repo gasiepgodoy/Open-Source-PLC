@@ -1,0 +1,18 @@
+.AP3402KTTR-G1 :1 ;Switching Voltage Regulators 1.0MHz 2A Step Down DC-DC Buck 2A Output
+SOT95P280X100-6N
+*STM IC
+*NGS
+*PLB 1="EN" 2="GND" 3="LX" 4="VIN" 5="PG" 6="FB"
+*MXP 6
+*DFN AP3402KTTR-G1
+~!Manufacturer_Name (Diodes Inc.)
+~!Manufacturer_Part_Number (AP3402KTTR-G1)
+~!Mouser Part Number (621-AP3402KTTR-G1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/AP3402KTTR-G1?qs=LJyqx%252Bm7g4f%252B%2FVb1cFR9iQ%3D%3D)
+~!Arrow Part Number (AP3402KTTR-G1)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ap3402kttr-g1/diodes-incorporated?region=nac)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/DKDS-29/576309.pdf)
+~!Height (1mm)
+~!3D_Model (AP3402KTTR-G1)
+AP3402KTTR-G1
+1.1!U 2.1!U 3.1!U 6.1!U 5.1!U 4.1!U 

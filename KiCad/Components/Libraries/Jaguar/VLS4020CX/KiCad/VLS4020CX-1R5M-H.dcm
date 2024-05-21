@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VLS4020CX-1R5M-H
+D Power Inductors - SMD 1.5uH 20% 0.06ohm 3.40A AEC-Q200
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_vls4020cx-h_en.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "FDMS4435BZ"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-11-30-08:57:05)
+    (mountForm default
+        (footprintRef "FDMS4435BZ")
+        (spec "System")
+    )
+)

@@ -1,0 +1,20 @@
+.DMG1029SV-7 :1 ;Diodes Inc DMG1029SV-7 Dual N/P-channel MOSFET Transistor, 6-Pin SOT-563
+SOTFL50P162X60-6N
+*STM Q
+*NGS
+*PLB 1="Q1_S1" 2="Q1_G1" 3="Q2_D2" 4="Q2_S2" 5="Q2_G2" 6="Q1_D1"
+*MXP 6
+*DFN DMG1029SV-7
+~!Manufacturer_Name (Diodes Inc.)
+~!Manufacturer_Part_Number (DMG1029SV-7)
+~!Mouser Part Number (621-DMG1029SV-7)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMG1029SV-7?qs=gfe7vQ8txpXkNqlWcYvGlA%3D%3D)
+~!Arrow Part Number (DMG1029SV-7)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/dmg1029sv-7/diodes-incorporated)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://www.diodes.com/assets/Datasheets/DMG1029SV.pdf)
+~!Height (0.6mm)
+~!3D_Model (DMG1029SV-7)
+DMG1029SV-7
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=Silicon Labs
+PartNumber=Si8641AB-B-IS1
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=16
+Version=1.1
+Released=2020-06-13 04:14:43
+Downloaded=2023-02-16 19:06:08
+3D=Y

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "833H-1C-F-S-24VDC"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-10-28-15:16:46)
+    (mountForm default
+        (footprintRef "833H1CFS24VDC")
+        (spec "System")
+    )
+)

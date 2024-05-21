@@ -1,0 +1,34 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model HT-191NB-YYYY
+#/238027/450068/2.49/2/4/LED
+DEF HT-191NB-YYYY LED 0 30 Y Y 1 F N
+F0 "LED" 500 350 50 H V L BNN
+F1 "HT-191NB-YYYY" 500 250 50 H V L BNN
+F2 "LEDC1608X60N" 500 150 50 H I L BNN
+F3 "https://datasheet.octopart.com/HT-191TW-Harvatek-datasheet-11745710.pdf" 500 50 50 H I L BNN
+F4 "Top-emitting 0603 (1608) HT-191 Series" 500 -50 50 H I L BNN "Description"
+F5 "0.6" 500 -150 50 H I L BNN "Height"
+F6 "Harvatek" 500 -250 50 H I L BNN "Manufacturer_Name"
+F7 "HT-191NB-YYYY" 500 -350 50 H I L BNN "Manufacturer_Part_Number"
+F8 "" 500 -450 50 H I L BNN "Mouser Part Number"
+F9 "" 500 -550 50 H I L BNN "Mouser Price/Stock"
+F10 "" 500 -650 50 H I L BNN "Arrow Part Number"
+F11 "" 500 -750 50 H I L BNN "Arrow Price/Stock"
+F12 "" 500 -850 50 H I L BNN "Mouser Testing Part Number"
+F13 "" 500 -950 50 H I L BNN "Mouser Testing Price/Stock"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 600 0 100 L 50 50 0 0 P
+P 2 0 1 6 200 100 200 -100 N
+P 2 0 1 6 250 100 150 200 N
+P 2 0 1 6 350 100 250 200 N
+P 2 0 1 6 100 0 200 0 N
+P 2 0 1 6 400 0 500 0 N
+P 4 0 1 10 200 0 400 100 400 -100 200 0 F
+P 4 0 1 10 210 170 180 140 150 200 210 170 F
+P 4 0 1 10 310 170 280 140 250 200 310 170 F
+ENDDRAW
+ENDDEF
+#
+#End Library

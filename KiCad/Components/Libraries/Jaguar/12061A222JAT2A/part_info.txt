@@ -1,0 +1,9 @@
+Manufacturer=AVX
+PartNumber=12061A222JAT2A
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=2.1
+Released=2016-07-13 06:52:50
+Downloaded=2023-02-24 17:40:15
+3D=Y

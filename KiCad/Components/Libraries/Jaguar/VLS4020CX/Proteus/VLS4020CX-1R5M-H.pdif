@@ -1,0 +1,112 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "VLS4020CX-1R5M-H"
+   (description "Power Inductors - SMD 1.5uH 20% 0.06ohm 3.40A AEC-Q200")
+   (family "IND")
+   (package "VLS4020CX1R5MH")
+   (attribute "Datasheet Link" "https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_vls4020cx-h_en.pdf")
+   (attribute "Geometry.Height" "2mm")
+   (attribute "Manufacturer_Name" "TDK")
+   (attribute "Manufacturer_Part_Number" "VLS4020CX-1R5M-H")
+   (attribute "Mouser Part Number" "810-VLS4020CX-1R5M-H")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/VLS4020CX-1R5M-H?qs=vvQtp7zwQdMoi9tHBOeuEA%3D%3D")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "VLS4020CX-1R5M-H")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "VLS4020CX-1R5M-H"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path
+     (arc (pt 200 0) (pt 200 -52) (pt 300 48) (start -175.4) (sweep 177.7)) (pt 300 0))
+   )
+   (graphic
+    (stroke 10)
+    (path
+     (arc (pt 300 0) (pt 300 -52) (pt 400 48) (start -175.4) (sweep 177.7)) (pt 400 0))
+   )
+   (graphic
+    (stroke 10)
+    (path
+     (arc (pt 400 0) (pt 400 -52) (pt 500 48) (start -175.4) (sweep 177.7)) (pt 500 0))
+   )
+   (graphic
+    (stroke 10)
+    (path
+     (arc (pt 500 0) (pt 500 -52) (pt 600 48) (start -175.4) (sweep 177.7)) (pt 600 0))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "VLS4020CX1R5MH"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2 -2)
+      (pt 2 -2)
+      (pt 2 2)
+      (pt -2 2)
+      (pt -2 -2))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.5 3)
+      (pt 3.5 3)
+      (pt 3.5 -3)
+      (pt -3.5 -3)
+      (pt -3.5 3))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3 0)
+      (arc (pt -3.000 0.000) (pt -3.000 -0.050) (pt -2.900 0.050) (start 180.0) (sweep 180.0))
+      (pt -2.9 0)
+      (arc (pt -2.900 0.000) (pt -3.000 -0.050) (pt -2.900 0.050) (start 180.0) (sweep .0))
+      (pt -3 0))))
+   (leg 1 (pt -1.550 0.000) (padstack 0))
+   (leg 2 (pt 1.550 0.000) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.900 4.000 0 0 90.000))
+   )
+   (model "VLS4020CX-1R5M-H.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

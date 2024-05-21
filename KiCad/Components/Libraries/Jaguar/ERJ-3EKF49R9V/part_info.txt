@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=ERJ-3EKF49R9V
+PartCategory=Resistor
+PackageCategory=Other
+PinCount=2
+Version=3.1
+Released=2016-07-12 14:04:43
+Downloaded=2023-02-24 17:54:25
+3D=Y

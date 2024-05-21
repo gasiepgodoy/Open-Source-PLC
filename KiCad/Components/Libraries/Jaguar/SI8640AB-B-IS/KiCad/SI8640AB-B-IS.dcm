@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SI8640AB-B-IS
+D DGTL ISO 2500VRMS 4CH GP 16SOIC
+K
+F https://www.skyworksinc.com/-/media/Skyworks/SL/documents/public/data-sheets/si86xx-1Mbps-datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

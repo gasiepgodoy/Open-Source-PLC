@@ -1,0 +1,136 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "DMG1029SV-7"
+   (description "Diodes Inc DMG1029SV-7 Dual N/P-channel MOSFET Transistor, 6-Pin SOT-563")
+   (family "ANA")
+   (package "SOTFL50P162X60-6N")
+   (attribute "Datasheet Link" "https://www.diodes.com/assets/Datasheets/DMG1029SV.pdf")
+   (attribute "Geometry.Height" "0.6mm")
+   (attribute "Manufacturer_Name" "Diodes Inc.")
+   (attribute "Manufacturer_Part_Number" "DMG1029SV-7")
+   (attribute "Mouser Part Number" "621-DMG1029SV-7")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMG1029SV-7?qs=gfe7vQ8txpXkNqlWcYvGlA%3D%3D")
+   (attribute "Arrow Part Number" "DMG1029SV-7")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/dmg1029sv-7/diodes-incorporated")
+   (attribute "Mouser Testing Part Number" "")
+   (attribute "Mouser Testing Price/Stock" "")
+   (gate
+    (symbol "DMG1029SV-7")
+    (pin "Q1_S1" 1 PS)
+    (pin "Q1_G1" 2 PS)
+    (pin "Q2_D2" 3 PS)
+    (pin "Q2_S2" 4 PS)
+    (pin "Q2_G2" 5 PS)
+    (pin "Q1_D1" 6 PS)
+   )
+  )
+  (symbol "DMG1029SV-7"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1000 100) (pt 1000 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOTFL50P162X60-6N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -1.23 1)
+      (pt 1.23 1)
+      (pt 1.23 -1)
+      (pt -1.23 -1)
+      (pt -1.23 1))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.588 0.8)
+      (pt 0.588 0.8)
+      (pt 0.588 -0.8)
+      (pt -0.588 -0.8)
+      (pt -0.588 0.8))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -0.588 0.3)
+      (pt -0.088 0.8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -0.238 0.8)
+      (pt 0.238 0.8)
+      (pt 0.238 -0.8)
+      (pt -0.238 -0.8)
+      (pt -0.238 0.8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1.08 0.9)
+      (pt -0.588 0.9))))
+   (leg 1 (pt -0.834 0.5) (padstack 0))
+   (leg 2 (pt -0.834 0) (padstack 0))
+   (leg 3 (pt -0.834 -0.5) (padstack 0))
+   (leg 4 (pt 0.834 -0.5) (padstack 0))
+   (leg 5 (pt 0.834 0) (padstack 0))
+   (leg 6 (pt 0.834 0.5) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.3 0.492 0 0 0))
+   )
+   (model "DMG1029SV-7.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

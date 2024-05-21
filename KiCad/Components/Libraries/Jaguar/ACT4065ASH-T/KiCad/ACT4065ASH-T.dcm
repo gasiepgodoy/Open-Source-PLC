@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACT4065ASH-T
+D Switching Voltage Regulators DC90DY4065ASHT, 40V Buck Converter
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/2ece4ad31d11873451d7d6d46fc90d57.pdf
+$ENDCMP
+#
+#End Doc Library

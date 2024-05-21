@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ERJ-3EKF6650V"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-09-30-14:58:50)
+    (mountForm default
+        (footprintRef "ERJ3EK__0603_")
+        (spec "System")
+    )
+)

@@ -1,0 +1,20 @@
+.SN74LVC541APWR :1 ;SN74LVC541APWR, 8-Bit Buffer, Line Driver, LVC, 3-State Non-Inverting 1.65  3.6 V 20-Pin TSSOP
+SOP65P640X120-20N
+*STM IC
+*NGS
+*PLB 1="'OE1'" 2="A1" 3="A2" 4="A3" 5="A4" 6="A5" 7="A6" 8="A7" 9="A8" 10="GND" 11="Y8" 12="Y7" 13="Y6" 14="Y5" 15="Y4" 16="Y3" 17="Y2" 18="Y1" 19="'OE2'" 20="VCC"
+*MXP 20
+*DFN SN74LVC541APWR
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (SN74LVC541APWR)
+~!Mouser Part Number (595-SN74LVC541APWR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74LVC541APWR?qs=DcvZ7Fltd5yUfWNWQTtNtQ%3D%3D)
+~!Arrow Part Number (SN74LVC541APWR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/sn74lvc541apwr/texas-instruments?region=nac)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-6/sf-000126984.pdf)
+~!Height (1.2mm)
+~!3D_Model (SN74LVC541APWR)
+SN74LVC541APWR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AP3402KTTR_G1'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Diodes Inc.", "AP3402KTTR-G1" (!) = "", "SOT95P280X100-6N", "SOT23 (6-Pin)", "621-AP3402KTTR-G1", "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/AP3402KTTR-G1?qs=LJyqx%252Bm7g4f%252B%2FVb1cFR9iQ%3D%3D", "AP3402KTTR-G1", "https://www.arrow.com/en/products/ap3402kttr-g1/diodes-incorporated?region=nac", "Switching Voltage Regulators 1.0MHz 2A Step Down DC-DC Buck 2A Output", "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-29/576309.pdf", "1 mm"
+END_PART
+
+END.

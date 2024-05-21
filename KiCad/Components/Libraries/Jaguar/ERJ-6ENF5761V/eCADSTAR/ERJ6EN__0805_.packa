@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ERJ-6ENF5761V"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-09-30-15:18:46)
+    (mountForm default
+        (footprintRef "ERJ6EN__0805_")
+        (spec "System")
+    )
+)

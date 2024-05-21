@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ERA-2AED331X
+D Metal Thin Film Chip Resistor, 0402, 0.063W
+K
+F http://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf
+$ENDCMP
+#
+#End Doc Library

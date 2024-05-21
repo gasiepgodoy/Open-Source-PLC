@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VLS4015CX-220M-H
+D SMD / SMT Inductors (Coils), L=22?H, L x W x T :
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_vls4015cx-h_en.pdf
+$ENDCMP
+#
+#End Doc Library

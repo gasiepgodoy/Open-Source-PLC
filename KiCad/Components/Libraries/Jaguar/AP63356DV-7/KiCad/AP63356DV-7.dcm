@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP63356DV-7
+D Switching Voltage Regulators DCDC Conv HV Buck V-DFN3020-13 T&R 3K 3.8V TO 32V INPUT, 3.5A LOW IQ SYNCHRONOUS BUCK WITH ENHANCED EMI REDUCTION
+K
+F https://www.diodes.com/assets/Datasheets/AP63356-AP63357.pdf
+$ENDCMP
+#
+#End Doc Library

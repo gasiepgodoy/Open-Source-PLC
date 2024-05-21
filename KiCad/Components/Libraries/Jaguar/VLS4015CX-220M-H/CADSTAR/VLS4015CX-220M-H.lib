@@ -1,0 +1,18 @@
+.VLS4015CX-220M-H :1 ;SMD / SMT Inductors (Coils), L=22?H, L x W x T :
+VLS4015CX100MH
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN VLS4015CX-220M-H
+~!Manufacturer_Name (TDK)
+~!Manufacturer_Part_Number (VLS4015CX-220M-H)
+~!Mouser Part Number (810-VLS4015CX-220M-H)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TDK/VLS4015CX-220M-H?qs=Li%252BoUPsLEnus0jJv5ITa9w%3D%3D)
+~!Arrow Part Number (VLS4015CX-220M-H)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/vls4015cx-220m-h/tdk?region=nac)
+~!Link Datasheet (https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_vls4015cx-h_en.pdf)
+~!Height (1.5mm)
+~!3D_Model (VLS4015CX-220M-H)
+VLS4015CX-220M-H
+1.1!U 2.1!U 

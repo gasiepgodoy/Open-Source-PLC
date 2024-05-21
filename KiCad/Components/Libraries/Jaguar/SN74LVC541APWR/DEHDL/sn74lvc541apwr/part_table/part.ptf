@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SN74LVC541APWR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "SN74LVC541APWR" (!) = "", "SOP65P640X120-20N", "Small Outline Packages", "595-SN74LVC541APWR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74LVC541APWR?qs=DcvZ7Fltd5yUfWNWQTtNtQ%3D%3D", "SN74LVC541APWR", "https://www.arrow.com/en/products/sn74lvc541apwr/texas-instruments?region=nac", "", "", "SN74LVC541APWR, 8-Bit Buffer, Line Driver, LVC, 3-State Non-Inverting 1.65  3.6 V 20-Pin TSSOP", "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-6/sf-000126984.pdf", "1.2 mm"
+END_PART
+
+END.

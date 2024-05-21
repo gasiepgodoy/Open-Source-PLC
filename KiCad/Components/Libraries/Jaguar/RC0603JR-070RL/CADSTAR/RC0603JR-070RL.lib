@@ -1,0 +1,20 @@
+.RC0603JR-070RL :1 ;YAGEO (PHYCOMP) - RC0603JR-070RL - RES, THICK FILM, 0R, 5%, 0.1W, 0603
+RESC1608X55N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN RC0603JR-070RL
+~!Manufacturer_Name (KEMET)
+~!Manufacturer_Part_Number (RC0603JR-070RL)
+~!Mouser Part Number (603-RC0603JR-070RL)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603JR-070RL?qs=2cAdsCoAWRGWyPcuXgGiXQ%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/902f9e387b938f871d31120f5fc1d65e.pdf)
+~!Height (0.55mm)
+~!3D_Model (RC0603JR-070RL)
+RC0603JR-070RL
+1.1!U 2.1!U 

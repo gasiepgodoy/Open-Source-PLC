@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74LVC541APWR
+D SN74LVC541APWR, 8-Bit Buffer, Line Driver, LVC, 3-State Non-Inverting 1.65  3.6 V 20-Pin TSSOP
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-6/sf-000126984.pdf
+$ENDCMP
+#
+#End Doc Library

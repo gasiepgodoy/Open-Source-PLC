@@ -1,0 +1,18 @@
+.VLS4020CX-1R5M-H :1 ;Power Inductors - SMD 1.5uH 20% 0.06ohm 3.40A AEC-Q200
+VLS4020CX1R5MH
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN VLS4020CX-1R5M-H
+~!Manufacturer_Name (TDK)
+~!Manufacturer_Part_Number (VLS4020CX-1R5M-H)
+~!Mouser Part Number (810-VLS4020CX-1R5M-H)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TDK/VLS4020CX-1R5M-H?qs=vvQtp7zwQdMoi9tHBOeuEA%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_vls4020cx-h_en.pdf)
+~!Height (2mm)
+~!3D_Model (VLS4020CX-1R5M-H)
+VLS4020CX-1R5M-H
+1.1!U 2.1!U 

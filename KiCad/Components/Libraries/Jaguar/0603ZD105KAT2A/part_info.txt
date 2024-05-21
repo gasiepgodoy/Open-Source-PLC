@@ -1,0 +1,9 @@
+Manufacturer=AVX
+PartNumber=0603ZD105KAT2A
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=3.2
+Released=2016-03-21 11:50:54
+Downloaded=2023-02-16 19:06:45
+3D=Y

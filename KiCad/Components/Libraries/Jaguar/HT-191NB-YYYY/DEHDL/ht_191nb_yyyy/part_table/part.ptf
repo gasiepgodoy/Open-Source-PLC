@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'HT_191NB_YYYY'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Harvatek", "HT-191NB-YYYY" (!) = "", "LEDC1608X60N", "LEDs Chip", "", "", "", "", "", "", "Top-emitting 0603 (1608) HT-191 Series", "https://datasheet.octopart.com/HT-191TW-Harvatek-datasheet-11745710.pdf", "0.6 mm"
+END_PART
+
+END.

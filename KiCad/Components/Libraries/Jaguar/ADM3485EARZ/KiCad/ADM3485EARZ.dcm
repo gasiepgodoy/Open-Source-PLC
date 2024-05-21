@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADM3485EARZ
+D +/-15 kV ESD-Protected, 3.3 V,12 Mbps,EIA RS-485/RS-422 Transceiver
+K
+F https://componentsearchengine.com/Datasheets/2/ADM3485EARZ.pdf
+$ENDCMP
+#
+#End Doc Library

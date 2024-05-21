@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74HC165PW
+D Texas Instruments SN74HC165PW, 8-stage, Shift Register, Parallel to Serial, 2  6 V, 16-Pin TSSOP
+K
+F http://www.ti.com/lit/gpn/sn74hc165
+$ENDCMP
+#
+#End Doc Library

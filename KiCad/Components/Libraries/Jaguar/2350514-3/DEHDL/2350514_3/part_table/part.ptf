@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '2350514_3'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "2350514-3" (!) = "", "SHDRRA3W90P0X350_1X3_1110X920X691P", "Header, Shrouded - Right Angle PTH Box", "571-2350514-3", "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/2350514-3?qs=wnTfsH77Xs4%252BXocSlHm5VQ%3D%3D", "2350514-3", "https://www.arrow.com/en/products/2350514-3/te-connectivity?region=nac", "2350514-3", "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2350514%7FA%7Fpdf%7FEnglish%7FENG_CD_2350514_A.pdf%7F2350514-3", "6.91 mm"
+END_PART
+
+END.

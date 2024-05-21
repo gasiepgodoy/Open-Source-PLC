@@ -1,0 +1,9 @@
+Manufacturer=TDK
+PartNumber=VLS4020CX-1R5M-H
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2023-01-27 12:47:42
+Downloaded=2023-06-09 16:56:02
+3D=Y

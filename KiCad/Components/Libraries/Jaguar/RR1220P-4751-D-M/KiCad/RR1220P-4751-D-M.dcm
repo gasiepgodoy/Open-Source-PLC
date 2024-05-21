@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RR1220P-4751-D-M
+D RES SMD 4.75KOHM 0.5% 1/10W 0805
+K
+F http://www.susumu.co.jp/common/pdf/n_catalog_partition05_en.pdf
+$ENDCMP
+#
+#End Doc Library

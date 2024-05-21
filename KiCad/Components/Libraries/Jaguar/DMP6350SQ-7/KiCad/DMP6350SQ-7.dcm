@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DMP6350SQ-7
+D MOSFET MOSFET BVDSS: 41V~60V SOT23 T&R 3K
+K
+F https://www.diodes.com/assets/Datasheets/DMP6350SQ.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,208 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "ULN2803AFWG_C_ELHA"
+   (description "8 Channel High Current Driver SOL18P-300 T+R Lead")
+   (family "ANA")
+   (package "SOIC127P1030X265-18N")
+   (attribute "Datasheet Link" "https://componentsearchengine.com/Datasheets/1/ULN2803AFWG(C,ELHA.pdf")
+   (attribute "Geometry.Height" "2.65mm")
+   (attribute "Manufacturer_Name" "Toshiba")
+   (attribute "Manufacturer_Part_Number" "ULN2803AFWG(C,ELHA")
+   (attribute "Mouser Part Number" "757-ULN2803AFWGCELHA")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Toshiba/ULN2803AFWGCELHA?qs=QhGSDAOLffLyZyOzY3%2FYww%3D%3D")
+   (attribute "Arrow Part Number" "ULN2803AFWG(C,ELHA")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/uln2803afwg-celha/toshiba")
+   (attribute "Mouser Testing Part Number" "")
+   (attribute "Mouser Testing Price/Stock" "")
+   (gate
+    (symbol "ULN2803AFWG_C_ELHA")
+    (pin "I1" 1 PS)
+    (pin "I2" 2 PS)
+    (pin "I3" 3 PS)
+    (pin "I4" 4 PS)
+    (pin "I5" 5 PS)
+    (pin "I6" 6 PS)
+    (pin "I7" 7 PS)
+    (pin "I8" 8 PS)
+    (pin "GND" 9 PS)
+    (pin "O1" 18 PS)
+    (pin "O2" 17 PS)
+    (pin "O3" 16 PS)
+    (pin "O4" 15 PS)
+    (pin "O5" 14 PS)
+    (pin "O6" 13 PS)
+    (pin "O7" 12 PS)
+    (pin "O8" 11 PS)
+    (pin "COMMON" 10 PS)
+   )
+  )
+  (symbol "ULN2803AFWG_C_ELHA"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1000 100) (pt 1000 -900) (pt 200 -900) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -600) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -700) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -800) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -600) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -700) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -800) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOIC127P1030X265-18N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -5.875 6.05)
+      (pt 5.875 6.05)
+      (pt 5.875 -6.05)
+      (pt -5.875 -6.05)
+      (pt -5.875 6.05))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.75 5.775)
+      (pt 3.75 5.775)
+      (pt 3.75 -5.775)
+      (pt -3.75 -5.775)
+      (pt -3.75 5.775))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -3.75 4.505)
+      (pt -2.48 5.775))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -3.625 5.775)
+      (pt 3.625 5.775)
+      (pt 3.625 -5.775)
+      (pt -3.625 -5.775)
+      (pt -3.625 5.775))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -5.625 5.78)
+      (pt -3.975 5.78))))
+   (leg 1 (pt -4.8 5.08) (padstack 0))
+   (leg 2 (pt -4.8 3.81) (padstack 0))
+   (leg 3 (pt -4.8 2.54) (padstack 0))
+   (leg 4 (pt -4.8 1.27) (padstack 0))
+   (leg 5 (pt -4.8 0) (padstack 0))
+   (leg 6 (pt -4.8 -1.27) (padstack 0))
+   (leg 7 (pt -4.8 -2.54) (padstack 0))
+   (leg 8 (pt -4.8 -3.81) (padstack 0))
+   (leg 9 (pt -4.8 -5.08) (padstack 0))
+   (leg 10 (pt 4.8 -5.08) (padstack 0))
+   (leg 11 (pt 4.8 -3.81) (padstack 0))
+   (leg 12 (pt 4.8 -2.54) (padstack 0))
+   (leg 13 (pt 4.8 -1.27) (padstack 0))
+   (leg 14 (pt 4.8 0) (padstack 0))
+   (leg 15 (pt 4.8 1.27) (padstack 0))
+   (leg 16 (pt 4.8 2.54) (padstack 0))
+   (leg 17 (pt 4.8 3.81) (padstack 0))
+   (leg 18 (pt 4.8 5.08) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.7 1.65 0 0 0))
+   )
+   (model "ULN2803AFWG_C,ELHA.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=284512-5
+PartCategory=Connector
+PackageCategory=Header, Shrouded - Right Angle PTH Box
+PinCount=5
+Version=2.1
+Released=2021-08-31 07:52:52
+Downloaded=2023-06-08 15:08:15
+3D=Y

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FOD2742B
+D Optocoupl DC-IN 1-CH Trans DC-OUT 8-SOIC
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/41c79820258b38ef1b23b251b28defe8.pdf
+$ENDCMP
+#
+#End Doc Library

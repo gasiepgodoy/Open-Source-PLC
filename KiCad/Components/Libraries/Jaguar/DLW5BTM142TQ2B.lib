@@ -1,0 +1,33 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model DLW5BTM142TQ2B
+#/881194/450068/2.49/8/2/Filter
+DEF DLW5BTM142TQ2B FL 0 30 Y Y 1 F N
+F0 "FL" 650 300 50 H V L CNN
+F1 "DLW5BTM142TQ2B" 650 200 50 H V L CNN
+F2 "DLW5BSN302SQ2L" 650 100 50 H I L CNN
+F3 "https://www.murata.com/en-us/products/productdetail?partno=DLW5BTM142TQ2%23" 650 0 50 H I L CNN
+F4 "DLW5BTM_Q2B Series EMI Suppression Filter 1400 at 100MHz 2A 50V" 650 -100 50 H I L CNN "Description"
+F5 "2.35" 650 -200 50 H I L CNN "Height"
+F6 "Murata Electronics" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "DLW5BTM142TQ2B" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "81-DLW5BTM142TQ2B" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/DLW5BTM142TQ2B?qs=eTNEoJdcnEIidHuka9sFHQ%3D%3D" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 650 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 650 -800 50 H I L CNN "Arrow Price/Stock"
+F12 "" 650 -900 50 H I L CNN "Mouser Testing Part Number"
+F13 "" 650 -1000 50 H I L CNN "Mouser Testing Price/Stock"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 -200 200 R 50 50 0 0 P
+X 4 4 0 -300 200 R 50 50 0 0 P
+X 5 5 800 0 200 L 50 50 0 0 P
+X 6 6 800 -100 200 L 50 50 0 0 P
+X 7 7 800 -200 200 L 50 50 0 0 P
+X 8 8 800 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

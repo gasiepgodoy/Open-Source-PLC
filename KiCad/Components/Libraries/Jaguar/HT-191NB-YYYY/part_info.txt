@@ -1,0 +1,9 @@
+Manufacturer=Harvatek
+PartNumber=HT-191NB-YYYY
+PartCategory=LED
+PackageCategory=LEDs Chip
+PinCount=2
+Version=2.3
+Released=2015-11-06 07:16:51
+Downloaded=2023-01-23 14:16:47
+3D=N

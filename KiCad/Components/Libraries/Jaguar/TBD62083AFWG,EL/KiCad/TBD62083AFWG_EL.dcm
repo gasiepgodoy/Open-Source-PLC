@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TBD62083AFWG,EL
+D Gate Drivers DMOS Transistor Array 8-CH, 50V/0.5A
+K
+F http://www.mouser.com/ds/2/408/TBD62083AFWG_datasheet_en_20160511-769679.pdf
+$ENDCMP
+#
+#End Doc Library

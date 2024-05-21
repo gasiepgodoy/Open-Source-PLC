@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GRM188R71H103KA01D
+D 0603 ceramic capacitor,X7R,50V,10nF Murata 0603 GRM 10nF Ceramic Multilayer Capacitor, 50 V dc, +125?C, X7R Dielectric, ?10% SMD
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/ec4f1577dddcc7a13ddad897a28002d3.pdf
+$ENDCMP
+#
+#End Doc Library

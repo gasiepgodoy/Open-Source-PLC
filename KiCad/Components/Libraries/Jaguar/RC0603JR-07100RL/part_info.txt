@@ -1,0 +1,9 @@
+Manufacturer=KEMET
+PartNumber=RC0603JR-07100RL
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=2.1
+Released=2016-07-07 13:24:10
+Downloaded=2023-02-24 16:20:19
+3D=Y

@@ -1,0 +1,35 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model MMBT2907A-7-F
+#/441319/450068/2.49/3/4/Transistor BJT PNP
+DEF MMBT2907A-7-F Q 0 30 Y Y 1 F N
+F0 "Q" 550 50 50 H V L CNN
+F1 "MMBT2907A-7-F" 550 -50 50 H V L CNN
+F2 "SOT96P240X100-3N" 550 -150 50 H I L CNN
+F3 "https://www.diodes.com/assets/Datasheets/ds30040.pdf" 550 -250 50 H I L CNN
+F4 "Diodes Inc MMBT2907A-7-F PNP Bipolar Transistor, -600 mA, -60 V, 3-Pin SOT-23" 550 -350 50 H I L CNN "Description"
+F5 "1" 550 -450 50 H I L CNN "Height"
+F6 "Diodes Inc." 550 -550 50 H I L CNN "Manufacturer_Name"
+F7 "MMBT2907A-7-F" 550 -650 50 H I L CNN "Manufacturer_Part_Number"
+F8 "621-MMBT2907A-F" 550 -750 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/MMBT2907A-7-F?qs=nzdy8YbEw1%252BnciVJrv5MLg%3D%3D" 550 -850 50 H I L CNN "Mouser Price/Stock"
+F10 "MMBT2907A-7-F" 550 -950 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/mmbt2907a-7-f/diodes-incorporated?region=europe" 550 -1050 50 H I L CNN "Arrow Price/Stock"
+F12 "" 550 -1150 50 H I L CNN "Mouser Testing Part Number"
+F13 "" 550 -1250 50 H I L CNN "Mouser Testing Price/Stock"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 400 -300 100 U 50 50 0 0 P
+X ~ 3 400 300 100 D 50 50 0 0 P
+P 2 0 1 20 300 100 300 -100 N
+P 2 0 1 6 300 50 400 150 N
+P 2 0 1 6 300 -50 400 -150 N
+P 2 0 1 6 400 -150 400 -200 N
+P 2 0 1 6 400 150 400 200 N
+P 2 0 1 6 100 0 300 0 N
+C 350 0 158 0 1 10 N
+P 4 0 1 10 380 -110 360 -130 340 -90 380 -110 F
+ENDDRAW
+ENDDEF
+#
+#End Library

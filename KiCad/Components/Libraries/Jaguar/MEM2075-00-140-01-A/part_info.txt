@@ -1,0 +1,9 @@
+Manufacturer=GCT (GLOBAL CONNECTOR TECHNOLOGY)
+PartNumber=MEM2075-00-140-01-A
+PartCategory=Connector
+PackageCategory=Other
+PinCount=13
+Version=1.1
+Released=2019-03-02 00:08:42
+Downloaded=2023-06-08 15:09:29
+3D=Y

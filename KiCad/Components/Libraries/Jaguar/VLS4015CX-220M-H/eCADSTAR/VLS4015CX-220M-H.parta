@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_15853863"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-03-18-16:57:22)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "VLS4015CX-220M-H")
+)
+
+
+(pinAssign "ECS_15853863"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-03-18-16:57:22)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_15853863")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "VLS4015CX-220M-H")
+)
+
+
+(part "VLS4015CX-220M-H"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-03-18-16:57:22)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "VLS4015CX-220M-H")
+    (pinAssignRef "ECS_15853863")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "L")
+    (property "description" "SMD / SMT Inductors (Coils), L=22?H, L x W x T :")
+    (property "Manufacturer_Name" "TDK")
+    (property "Manufacturer_Part_Number" "VLS4015CX-220M-H")
+    (property "Mouser_Part_Number" "810-VLS4015CX-220M-H")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/VLS4015CX-220M-H?qs=Li%252BoUPsLEnus0jJv5ITa9w%3D%3D")
+    (property "Arrow_Part_Number" "VLS4015CX-220M-H")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/vls4015cx-220m-h/tdk?region=nac")
+    (property "Datasheet_Link" "https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_vls4015cx-h_en.pdf")
+    (property "compAreaTopHeight" 1.5)
+)
+
+

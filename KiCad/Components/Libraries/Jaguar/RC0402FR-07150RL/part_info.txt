@@ -1,0 +1,9 @@
+Manufacturer=KEMET
+PartNumber=RC0402FR-07150RL
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=2.4
+Released=2016-07-07 13:21:18
+Downloaded=2023-02-15 17:26:22
+3D=Y

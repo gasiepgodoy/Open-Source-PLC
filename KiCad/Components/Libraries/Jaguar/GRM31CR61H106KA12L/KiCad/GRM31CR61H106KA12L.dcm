@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GRM31CR61H106KA12L
+D Ceramic Capacitors MLCC 1206 10uF 50V Murata 1206 GRM 10uF Ceramic Multilayer Capacitor, 50 V dc, +85C, X5R Dielectric, +/-10% SMD
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/ec4f1577dddcc7a13ddad897a28002d3.pdf
+$ENDCMP
+#
+#End Doc Library

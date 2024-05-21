@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_954107"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-10-06-11:18:49)
+    (utime 2022-08-04-13:11:28)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "ERJ-3EKF6650V")
+)
+
+
+(pinAssign "ECS_954107"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-10-06-11:18:49)
+    (utime 2022-08-04-13:11:28)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_954107")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "ERJ-3EKF6650V")
+)
+
+
+(part "ERJ-3EKF6650V"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-10-06-11:18:49)
+    (utime 2022-08-04-13:11:28)
+    (packageRef "ERJ-3EKF6650V")
+    (pinAssignRef "ECS_954107")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "R")
+    (property "description" "Precision Thick Film Chip Resistor, 0603, 0.1W")
+    (property "Manufacturer_Name" "Panasonic")
+    (property "Manufacturer_Part_Number" "ERJ-3EKF6650V")
+    (property "Mouser_Part_Number" "667-ERJ-3EKF6650V")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-3EKF6650V?qs=iBwFsHVUAOdBVLCRXFB5%2Fg%3D%3D")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Mouser_Testing_Part_Number" "")
+    (property "Mouser_Testing_Price/Stock" "")
+    (property "Datasheet_Link" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf")
+    (property "compAreaTopHeight" 0.55)
+)
+
+

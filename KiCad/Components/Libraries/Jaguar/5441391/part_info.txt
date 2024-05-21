@@ -1,0 +1,9 @@
+Manufacturer=Phoenix Contact
+PartNumber=5441391
+PartCategory=Connector
+PackageCategory=Header, Shrouded - Right Angle PTH Box
+PinCount=8
+Version=2.1
+Released=2022-03-02 14:21:35
+Downloaded=2023-06-08 15:08:32
+3D=Y

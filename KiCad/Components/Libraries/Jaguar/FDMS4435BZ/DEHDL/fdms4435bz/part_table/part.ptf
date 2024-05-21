@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FDMS4435BZ'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "FDMS4435BZ" (!) = "", "FDMS4435BZ", "Other", "512-FDMS4435BZ", "http://www.mouser.com/Search/ProductDetail.aspx?qs=iQhsftLtcNQ543GBt6dzQg%3d%3d", "FDMS4435BZ", "https://www.arrow.com/en/products/fdms4435bz/on-semiconductor?region=nac", "MOSFET PowerTrench P-Ch 30V 18A Power56", "https://www.onsemi.com/pdf/datasheet/fdms4435bz-d.pdf", "1.1 mm"
+END_PART
+
+END.

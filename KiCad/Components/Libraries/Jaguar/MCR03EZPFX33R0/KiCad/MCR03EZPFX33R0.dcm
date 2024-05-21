@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCR03EZPFX33R0
+D 0603 Thick Film Resistor 0.1W, 33R ROHM MCR Series Thick Film Surface Mount Resistor 0603 Case 33 +/-1% 0.1W +/-100ppm/C
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/dbb208b8b0fbd2aeb0eafa67412df4d0.pdf
+$ENDCMP
+#
+#End Doc Library

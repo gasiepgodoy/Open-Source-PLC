@@ -1,0 +1,33 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SI8620BB-B-ISR
+#/986705/450068/2.49/8/3/Attenuator or Isolator
+DEF SI8620BB-B-ISR AT 0 30 Y Y 1 F N
+F0 "AT" 950 300 50 H V L CNN
+F1 "SI8620BB-B-ISR" 950 200 50 H V L CNN
+F2 "SOIC127P600X175-8N" 950 100 50 H I L CNN
+F3 "https://www.silabs.com/documents/public/data-sheets/si861x-2x-datasheet.pdf" 950 0 50 H I L CNN
+F4 "SILICON LABS - SI8620BB-B-ISR - Digital Isolator, 2 Channel, 8 ns, 2.5 V, 5.5 V, SOIC, 8 Pins" 950 -100 50 H I L CNN "Description"
+F5 "1.75" 950 -200 50 H I L CNN "Height"
+F6 "Silicon Labs" 950 -300 50 H I L CNN "Manufacturer_Name"
+F7 "SI8620BB-B-ISR" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "634-SI8620BB-B-ISR" 950 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Silicon-Labs/SI8620BB-B-ISR?qs=j6MGy4L9yX3UqdNjYI%2FCRQ%3D%3D" 950 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "SI8620BB-B-ISR" 950 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/si8620bb-b-isr/silicon-labs" 950 -800 50 H I L CNN "Arrow Price/Stock"
+F12 "" 950 -900 50 H I L CNN "Mouser Testing Part Number"
+F13 "" 950 -1000 50 H I L CNN "Mouser Testing Price/Stock"
+DRAW
+X VDD1 1 0 0 200 R 50 50 0 0 P
+X A1 2 0 -100 200 R 50 50 0 0 P
+X A2 3 0 -200 200 R 50 50 0 0 P
+X GND1 4 0 -300 200 R 50 50 0 0 P
+X VDD2 8 1100 0 200 L 50 50 0 0 P
+X B1 7 1100 -100 200 L 50 50 0 0 P
+X B2 6 1100 -200 200 L 50 50 0 0 P
+X GND2 5 1100 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

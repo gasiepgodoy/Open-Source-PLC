@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model B1100-13-F
+#/258616/450068/2.49/2/3/Diode
+DEF B1100-13-F D 0 30 Y Y 1 F N
+F0 "D" 450 200 50 H V L CNN
+F1 "B1100-13-F" 450 100 50 H V L CNN
+F2 "DIOM5226X230N" 450 0 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-9/DSA-164343.pdf" 450 -100 50 H I L CNN
+F4 "DIODES INC. - B1100-13-F - DIODE, REC, SCHOTTKY, 100V, 1A, SMA" 450 -200 50 H I L CNN "Description"
+F5 "2.3" 450 -300 50 H I L CNN "Height"
+F6 "Diodes Inc." 450 -400 50 H I L CNN "Manufacturer_Name"
+F7 "B1100-13-F" 450 -500 50 H I L CNN "Manufacturer_Part_Number"
+F8 "621-B1100-F" 450 -600 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/B1100-13-F?qs=T8e3FA69jPlr%2FjoVfgtgdA%3D%3D" 450 -700 50 H I L CNN "Mouser Price/Stock"
+F10 "B1100-13-F" 450 -800 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/b1100-13-f/diodes-incorporated?region=nac" 450 -900 50 H I L CNN "Arrow Price/Stock"
+F12 "" 450 -1000 50 H I L CNN "Mouser Testing Part Number"
+F13 "" 450 -1100 50 H I L CNN "Mouser Testing Price/Stock"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 600 0 100 L 50 50 0 0 P
+P 2 0 1 6 200 100 200 -100 N
+P 2 0 1 6 100 0 200 0 N
+P 2 0 1 6 400 0 500 0 N
+P 4 0 1 10 200 0 400 100 400 -100 200 0 F
+ENDDRAW
+ENDDEF
+#
+#End Library

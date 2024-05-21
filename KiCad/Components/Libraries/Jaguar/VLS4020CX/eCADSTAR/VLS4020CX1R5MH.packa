@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "VLS4020CX-1R5M-H"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-01-27-12:47:42)
+    (mountForm default
+        (footprintRef "VLS4020CX1R5MH")
+        (spec "System")
+    )
+)

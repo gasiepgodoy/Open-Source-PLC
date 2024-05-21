@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "DMP6350SQ-7"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-10-08-04:54:12)
+    (mountForm default
+        (footprintRef "SOT96P240X110-3N")
+        (spec "System")
+    )
+)

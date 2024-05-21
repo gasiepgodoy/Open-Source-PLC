@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ERJ-6ENF5761V
+D Thick Film Resistors - SMD 0805 5.76Kohms 1% AEC-Q200
+K
+F http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf
+$ENDCMP
+#
+#End Doc Library

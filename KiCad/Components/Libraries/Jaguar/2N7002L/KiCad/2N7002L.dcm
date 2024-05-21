@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N7002L
+D ON SEMICONDUCTOR - 2N7002L - MOSFET, N-CH, 60V, 0.115A, 150DEG C
+K
+F http://www.onsemi.com/pub/Collateral/318-08.PDF
+$ENDCMP
+#
+#End Doc Library

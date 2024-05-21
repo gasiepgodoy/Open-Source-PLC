@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74LVC1G14QDCKRQ1
+D Automotive Single Schmitt-Trigger Inverter
+K
+F http://www.ti.com/lit/gpn/sn74lvc1g14-q1
+$ENDCMP
+#
+#End Doc Library

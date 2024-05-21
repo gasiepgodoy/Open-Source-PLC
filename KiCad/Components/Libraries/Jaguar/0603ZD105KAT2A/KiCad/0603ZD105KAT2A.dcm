@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0603ZD105KAT2A
+D AVX 1uF  /-10% 10 V dc X5R Dielectric SMD Ceramic Multilayer Capacitor 0603
+K
+F http://datasheets.avx.com/cx5r.pdf
+$ENDCMP
+#
+#End Doc Library

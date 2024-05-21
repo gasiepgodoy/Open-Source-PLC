@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SI8640AB-B-IS"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-09-03-10:21:48)
+    (mountForm default
+        (footprintRef "SOIC127P600X175-16N")
+        (spec "System")
+    )
+)
