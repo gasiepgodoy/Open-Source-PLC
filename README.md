@@ -1,6 +1,7 @@
 # Open-Source-PLC
 
-Design of a low-cost and highly versatile open source programmable logic controller for industrial internet of things applications with the following technical specifications:
+Design of a low-cost and highly versatile open source programmable logic controller for industrial internet of things applications.
+All development was carried out using KiCad and the controller follows the following specifications:
 
 Power: Powered via direct current signal and with a voltage of 24V to facilitate integration into industrial panels.
 
