@@ -1,16 +1,9 @@
-# Open-Source-PLC
+# Open-Source-PLC - Micropython 
 
-Design of a low-cost and highly versatile open-source programmable logic controller for industrial Internet of Things applications.
-All development was carried out using KiCad and the controller follows the following specifications:
+The complexity inherent in these configurations can represent a barrier for users seeking to quickly integrate the platform into industrial systems. The configuration process requires the user to directly manipulate the microcontroller pins, establish communication via SPI for serialized access to I/Os, and deal with different communication interfaces, such as Ethernet, RS-232, and RS-485. These steps make the development more error-prone and increase the time required for implementation.
 
-Power: Powered via direct current signal and with a voltage of 24V to facilitate integration into industrial panels.
+In view of this challenge, a MicroPython library was developed that abstracts these complexities and provides an intuitive interface for the end user.
 
-Inputs: 12 digital inputs at 24v and opto-coupled, 4 programmable analog inputs via ADC that operate from -10 to 10V, and 3 dedicated encoder inputs.
+The implementation of this library will allow the selection of inputs and outputs to be performed through logical identifications, eliminating the need for knowledge about the internal structure of the hardware. This approach significantly reduces the development and implementation time of industrial applications, in addition to increasing the reliability of the system, minimizing errors resulting from manual configurations.
 
-Outputs: 8 digital relay outputs and 4 PWM outputs.
-
-Connectivity: Communication via RS-232, RS-485, Ethernet TCP/IP, and support for IoT standards such as MQTT, and Modbus TCP/IP.
-
-CPU: RP2040 - Raspberry Pi Pico
-
-The developed controller can be programmed using the languages stipulated in the IEC 61131-3 standard through OpenPLC (https://autonomylogic.com/) under the name Project Jaguar.
+The developed library was named Jaguar as well as the hardware
