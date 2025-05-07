@@ -1,4 +1,4 @@
-# Open-Source-PLC - Softwrae
+# Open-Source-PLC - Software
 
 The project was developed with flexibility and customization in mind. To achieve this, two ways of programming the hardware were initially developed.
 
