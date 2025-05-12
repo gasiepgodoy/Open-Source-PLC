@@ -13,4 +13,4 @@ Connectivity: Communication via RS-232, RS-485, Ethernet TCP/IP, and support for
 
 CPU: RP2040 - Raspberry Pi Pico
 
-The developed controller can be programmed using the languages stipulated in the IEC 61131-3 standard through OpenPLC (https://autonomylogic.com/) under the name Project Jaguar.
+The developed controller can be programmed using the languages ​​stipulated in the IEC 61131-3 standard through OpenPLC (https://autonomylogic.com/) under the name of Project Jaguar or the micropython language can also be used together with the developed Jaguar library.
