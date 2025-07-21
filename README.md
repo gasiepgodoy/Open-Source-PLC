@@ -41,7 +41,7 @@ The architecture is organized into independent functional blocks, with modular I
 - **Electrical Interface:** Level shifters, opto-isolated inputs, and industrial-grade buffers
 - **Additional Support:** Optional RS-232/RS-485 communication bus
 
-All schematics and PCB layout files are available in the [`/hardware`](./hardware) folder.
+All schematics and PCB layout files are available in the [`/Hardware`](./Hardware) folder.
 
 ---
 
